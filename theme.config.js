@@ -6,83 +6,16 @@
  * Icons from react-icons: https://react-icons.github.io/react-icons
  */
 
+import { BiEnvelope } from 'react-icons/bi'
 import {
-  IoLogoTwitter,
   IoLogoInstagram,
   IoLogoLinkedin,
-  IoNewspaper,
   IoNewspaperSharp,
-  IoPersonSharp,
   IoHomeSharp,
-  IoPencilSharp,
-  IoManSharp,
-  IoAppsSharp,
-  IoCardSharp,
-  IoImageSharp,
-  IoAlbumsSharp,
-  IoColorWandSharp,
-  IoTrendingUpSharp,
   IoLaptopSharp,
-  IoLaptopOutline,
-  IoMailOpenSharp,
   IoMailSharp,
-  IoMailUnreadSharp,
-  IoAlertCircleSharp,
-  IoListSharp,
-  IoListCircleSharp,
-  IoTextSharp,
+  IoImagesSharp,
 } from 'react-icons/io5'
-import {
-  TfiArchive,
-  TfiEnvelope,
-  TfiGallery,
-  TfiHome,
-  TfiLayout,
-  TfiLayoutListPost,
-  TfiPencilAlt,
-  TfiPencilAlt2,
-  TfiText,
-  TfiWrite,
-} from 'react-icons/tfi'
-import {
-  SlUser,
-  SlBriefcase,
-  SlEnvolope,
-  SlTrophy,
-  SlEnvolopeLetter,
-  SlEnvelopeOpen,
-  SlPhone,
-  SlStar,
-  SlGameController,
-} from 'react-icons/sl'
-import {
-  MdArticle,
-  MdComputer,
-  MdContactEmergenc,
-  MdContactless,
-  MdContactMail,
-  MdContacts,
-  MdContactSupport,
-  MdDesignServices,
-  MdDeveloperBoard,
-  MdDeveloperMode,
-  MdLaptopMac,
-  MdMiscellaneousServices,
-  MdNewReleases,
-  MdOutlineArticle,
-  MdOutlineDesignServices,
-  MdPodcasts,
-} from 'react-icons/md'
-import {
-  BiCode,
-  BiCodeBlock,
-  BiEnvelopeOpen,
-  BiLaptop,
-  BiListPlus,
-  BiNews,
-  BiShapePolygon,
-} from 'react-icons/bi'
-import { HiDesktopComputer, HiOutlinePencil } from 'react-icons/hi'
 
 /**
  * Main Menu Items
@@ -97,22 +30,17 @@ export const menu = [
   {
     name: 'About',
     slug: '/about',
-    Icon: IoPersonSharp,
-  },
-  {
-    name: 'Services',
-    slug: '/services',
     Icon: IoLaptopSharp,
   },
   {
     name: 'Projects',
     slug: '/projects',
-    Icon: IoAppsSharp,
+    Icon: IoImagesSharp,
   },
   {
     name: 'Articles',
     slug: '/blog',
-    Icon: IoNewspaperSharp
+    Icon: IoNewspaperSharp,
   },
   {
     name: 'Contact',
@@ -129,7 +57,7 @@ export const social = [
   {
     name: 'Email',
     url: 'mailto:aydinholjan@gmail.com',
-    Icon: SlEnvolope,
+    Icon: BiEnvelope,
   },
   {
     name: 'Linkedin',

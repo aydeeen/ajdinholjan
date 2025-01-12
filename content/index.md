@@ -20,9 +20,9 @@ images:
 
 <Sep size={12} />
 
-I am a passionate and results-driven front-end developer with a focus on creating dynamic, user-friendly websites and web applications. My expertise spans a diverse range of technologies, including JavaScript, React, Next.js, TypeScript, WordPress, WooCommerce, PHP, Alpine.js, Astro.js, and Tailwind CSS, among others. I am dedicated to delivering high-quality, scalable solutions that meet both user needs and business goals.
+I am a passionate and results-driven front-end developer with a focus on building dynamic, user-friendly websites and web applications. With expertise in technologies such as JavaScript, React, Next, TypeScript, Tailwind, WordPress, WooCommerce, PHP, Alpine and Astro, I am committed to delivering high-quality, scalable solutions that align with both user needs and business objectives.
 
-As a collaborative team player, I excel in fast-paced environments and bring strong communication and problem-solving skills to every project. With a commitment to continuous learning, I invest over 20 hours each month exploring emerging tools and technologies, ensuring I stay at the cutting edge of the industry.
+As a collaborative team player, I thrive in fast-paced environments and bring strong communication and problem-solving skills to every project. With a dedication to continuous learning, I invest over 20 hours each month exploring emerging tools and technologies, ensuring I stay ahead of industry trends and maintain a cutting-edge skillset.
 
 
 
