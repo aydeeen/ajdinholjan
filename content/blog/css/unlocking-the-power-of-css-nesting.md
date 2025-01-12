@@ -2,7 +2,7 @@
 layout: Post
 title: "Unlocking the Power of CSS Nesting: A Game Changer for Your Stylesheets"
 description: Do we need SCSS any more? With the introduction of native CSS nesting, the need for preprocessors like SCSS is less critical, as modern browsers now support cleaner and more maintainable nested rules.
-date: '2024-09-05'
+date: '2025-12-01'
 tags:
   - css
 images:

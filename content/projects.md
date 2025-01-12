@@ -13,6 +13,6 @@ collection:
 ---
 
 <PageTitle>
-  <h3 class="mb-4">Latest Projects</h3>
-  <p class="mt-0">I have transformed ideas into remarkable digital products.</p> 
+  <h3 class="mb-4">Projects</h3>
+  <p class="mt-0">I have transformed ideas and designs into remarkable digital products.</p> 
 </PageTitle>
