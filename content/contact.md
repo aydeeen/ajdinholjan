@@ -27,7 +27,7 @@ Use the form on this page or get in touch by other means.
 
   <Icon src="/icons/mail.svg" className="mr-2 inline align-middle fill-current text-omega-500" /> Email: aydinholjan@gmail.com
 
-  <Icon src="/icons/logo-linkedin.svg" className="mr-2 inline align-middle fill-current text-omega-500" /> Linkedin: [CarlHanson](http://linkedin.com/vercel)
+  <Icon src="/icons/logo-linkedin.svg" className="mr-2 inline align-middle fill-current text-omega-500" /> Linkedin: [AjdinHoljan](https://www.linkedin.com/in/ajdin-holjan-16b795247/)
 
-  <Icon src="/icons/logo-twitter.svg" className="mr-2 inline align-middle fill-current text-omega-500" /> Twitter: [@CarlHanson](http://twitter.com/vercel)
+  <Icon src="/icons/logo-instagram.svg" className="mr-2 inline align-middle fill-current text-omega-500" /> Instagram: [@AjdinHoljan](https://www.instagram.com/holjanajdin/)
 </small>
