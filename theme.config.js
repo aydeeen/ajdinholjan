@@ -6,9 +6,83 @@
  * Icons from react-icons: https://react-icons.github.io/react-icons
  */
 
-import { IoLogoTwitter, IoLogoInstagram, IoLogoLinkedin } from 'react-icons/io5'
-import { TfiHome, TfiPencilAlt } from 'react-icons/tfi'
-import { SlUser, SlBriefcase, SlEnvolope, SlTrophy } from 'react-icons/sl'
+import {
+  IoLogoTwitter,
+  IoLogoInstagram,
+  IoLogoLinkedin,
+  IoNewspaper,
+  IoNewspaperSharp,
+  IoPersonSharp,
+  IoHomeSharp,
+  IoPencilSharp,
+  IoManSharp,
+  IoAppsSharp,
+  IoCardSharp,
+  IoImageSharp,
+  IoAlbumsSharp,
+  IoColorWandSharp,
+  IoTrendingUpSharp,
+  IoLaptopSharp,
+  IoLaptopOutline,
+  IoMailOpenSharp,
+  IoMailSharp,
+  IoMailUnreadSharp,
+  IoAlertCircleSharp,
+  IoListSharp,
+  IoListCircleSharp,
+  IoTextSharp,
+} from 'react-icons/io5'
+import {
+  TfiArchive,
+  TfiEnvelope,
+  TfiGallery,
+  TfiHome,
+  TfiLayout,
+  TfiLayoutListPost,
+  TfiPencilAlt,
+  TfiPencilAlt2,
+  TfiText,
+  TfiWrite,
+} from 'react-icons/tfi'
+import {
+  SlUser,
+  SlBriefcase,
+  SlEnvolope,
+  SlTrophy,
+  SlEnvolopeLetter,
+  SlEnvelopeOpen,
+  SlPhone,
+  SlStar,
+  SlGameController,
+} from 'react-icons/sl'
+import {
+  MdArticle,
+  MdComputer,
+  MdContactEmergenc,
+  MdContactless,
+  MdContactMail,
+  MdContacts,
+  MdContactSupport,
+  MdDesignServices,
+  MdDeveloperBoard,
+  MdDeveloperMode,
+  MdLaptopMac,
+  MdMiscellaneousServices,
+  MdNewReleases,
+  MdOutlineArticle,
+  MdOutlineDesignServices,
+  MdPodcasts,
+} from 'react-icons/md'
+import {
+  BiCode,
+  BiCodeBlock,
+  BiEnvelopeOpen,
+  BiLaptop,
+  BiListPlus,
+  BiNews,
+  BiShapePolygon,
+} from 'react-icons/bi'
+import { HiDesktopComputer, HiOutlinePencil } from 'react-icons/hi'
 
 /**
  * Main Menu Items
@@ -18,51 +92,32 @@ export const menu = [
   {
     name: 'Home',
     slug: '/',
-    Icon: TfiHome,
-    number: 1,
-  },
-  {
-    name: 'Home (2)',
-    slug: '/index-2',
-    Icon: TfiHome,
-    number: 2,
-  },
-  {
-    name: 'Home (3)',
-    slug: '/index-3',
-    Icon: TfiHome,
-    number: 3,
-  },
-  {
-    name: 'Home (4)',
-    slug: '/index-4',
-    Icon: TfiHome,
-    number: 4,
+    Icon: IoHomeSharp,
   },
   {
     name: 'About',
     slug: '/about',
-    Icon: SlUser,
+    Icon: IoPersonSharp,
   },
   {
     name: 'Services',
     slug: '/services',
-    Icon: SlBriefcase,
-  },
-  {
-    name: 'Articles',
-    slug: '/blog',
-    Icon: TfiPencilAlt,
+    Icon: IoLaptopSharp,
   },
   {
     name: 'Projects',
     slug: '/projects',
-    Icon: SlTrophy,
+    Icon: IoAppsSharp,
+  },
+  {
+    name: 'Articles',
+    slug: '/blog',
+    Icon: IoNewspaperSharp
   },
   {
     name: 'Contact',
     slug: '/contact',
-    Icon: SlEnvolope,
+    Icon: IoMailSharp,
   },
 ]
 
@@ -72,19 +127,19 @@ export const menu = [
 
 export const social = [
   {
-    name: 'Twitter',
-    url: 'https://www.twitter.com/',
-    Icon: IoLogoTwitter,
+    name: 'Email',
+    url: 'mailto:aydinholjan@gmail.com',
+    Icon: SlEnvolope,
+  },
+  {
+    name: 'Linkedin',
+    url: 'https://www.linkedin.com/in/ajdin-holjan-16b795247/',
+    Icon: IoLogoLinkedin,
   },
   {
     name: 'Instagram',
-    url: 'https://www.instagram.com/',
+    url: 'https://www.instagram.com/holjanajdin/',
     Icon: IoLogoInstagram,
-  },
-  {
-    name: 'LinkedIn',
-    url: 'https://www.linkedin.com/',
-    Icon: IoLogoLinkedin,
   },
 ]
 

@@ -20,7 +20,9 @@ images:
 
 <Sep size={12} />
 
-I am a front-end developer with over 7 years of experience, driven and eager to learn, focused mainly on building web applications and websites. I have professional hands-on experience working with many different technologies such as Wordpress, JavaScript, React, Vue.js and PHP. I am a team player with strong collaboration skills, who can adapt very quicky and with willingness to learn new technologies.
+I am a passionate and results-driven front-end developer with a focus on creating dynamic, user-friendly websites and web applications. My expertise spans a diverse range of technologies, including JavaScript, React, Next.js, TypeScript, WordPress, WooCommerce, PHP, Alpine.js, Astro.js, and Tailwind CSS, among others. I am dedicated to delivering high-quality, scalable solutions that meet both user needs and business goals.
+
+As a collaborative team player, I excel in fast-paced environments and bring strong communication and problem-solving skills to every project. With a commitment to continuous learning, I invest over 20 hours each month exploring emerging tools and technologies, ensuring I stay at the cutting edge of the industry.
 
 
 
