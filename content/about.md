@@ -1,7 +1,7 @@
 ---
 layout: About
 seo:
-  title: About Me
+  title: About
   description: Custom description for this page goes here
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: Blog
 seo:
-  title: My Blog
+  title: Blog
   description: Custom description for this page goes here
 collection:
   path: /blog
@@ -24,4 +24,4 @@ collection:
 
 ### Categories
 
-<small>I write about web development and modern JavaScript frameworks.</small>
+<small class="mb-8 block">I write about web development and modern JavaScript frameworks.</small>

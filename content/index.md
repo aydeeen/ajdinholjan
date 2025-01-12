@@ -41,5 +41,3 @@ As a collaborative team player, I thrive in fast-paced environments and bring st
 <Button href="/contact" size="lg" className="mb-6">
   Download Resume
 </Button>
-
-[Get in Touch](/contact)

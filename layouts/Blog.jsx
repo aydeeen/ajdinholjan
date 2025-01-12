@@ -3,7 +3,6 @@ import BlogCardVertical from '@/components/BlogCardVertical'
 import ContentRenderer from '@/components/ContentRenderer'
 import Paging from '@/components/Paging'
 import useInfinitePaging from '@/components/useInfinitePaging'
-import Newsletter from '@/components/Newsletter'
 import Reveal from '@/components/Reveal'
 import Sep from '@/components/Sep'
 
@@ -21,20 +20,17 @@ const Layout = ({ pagination, collection, slug, content, categories }) => {
       <div className="prose prose-headings:mb-4 dark:prose-invert">
         {categories && (
           <>
-            <div className="grid-cols-2 bg-omega-800 md:grid">
-              <div className="p-3 md:p-6 lg:p-12">
-                <ContentRenderer source={categories} />
-                <div className="mt-4 grid gap-2 lg:grid-cols-2">
-                  {categories?.collection?.records?.map((tag) => (
-                    <TagCard key={tag.title} {...tag} />
-                  ))}
-                </div>
-              </div>
+            <div className="bg-omega-800">
               <Reveal
                 animation="fade-in slide-in-left"
                 className="bg-gradient-omega-900 p-3 md:p-6 lg:p-12"
               >
-                <Newsletter />
+                <ContentRenderer source={categories} />
+                <div className="mt-4 grid gap-2 sm:grid-cols-2 lg:grid-cols-3">
+                  {categories?.collection?.records?.map((tag) => (
+                    <TagCard key={tag.title} {...tag} />
+                  ))}
+                </div>
               </Reveal>
             </div>
             <Sep line className="" />

@@ -82,21 +82,6 @@ const Menu = () => {
           <div className="grid w-full grid-cols-4 bg-gradient-to-b from-transparent to-omega-800 md:block">
             {menu &&
               menu.map((item) => <MenuItem {...item} key={`${item.slug}`} onClick={closeMenu} />)}
-            <div
-              className={classNames(
-                'row-start-1 flex h-16 items-center md:hidden',
-                isOpen ? 'col-span-4 col-start-1' : 'bg-gradient-omega-900 col-start-4'
-              )}
-              onClick={toggleMenu}
-            >
-              <span className="md:none mx-auto block text-7xl text-omega-100">
-                {isOpen ? (
-                  <BiChevronDown className="animate-grow-in" />
-                ) : (
-                  <BiDotsHorizontalRounded className="animate-grow-in" />
-                )}
-              </span>
-            </div>
           </div>
         )}
 

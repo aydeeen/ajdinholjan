@@ -1,8 +1,8 @@
 ---
 layout: Blog
-title: Digital Marketing
+title: CSS
 seo:
-  title: Digital Marketing Articles
+  title: CSS Articles
   description: Custom description for this page goes here
 collection:
   path: /blog
@@ -12,9 +12,9 @@ collection:
   filterBy:
     tags:
       $in:
-        - marketing
+        - css
 ---
 
-### Digital Marketing Articles
+### CSS Articles
 
 Marketing tactics and technologies used to reach consumers online.

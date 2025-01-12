@@ -6,7 +6,7 @@ date: '2022-11-21'
 tags:
   - tailwind
 images:
-  - src: /photos/blog-browsers.jpg
+  - src: /blog/blog-browsers.jpg
     alt: image alt attribute
 ---
 
@@ -118,12 +118,12 @@ This will render the Newsletter component:
 To add an image, add an exclamation mark (!), followed by alt text in brackets, and the path or URL to the image asset in parentheses. You can optionally add a title in quotation marks after the path or URL.
 
 ```md
-![This is the caption](/photos/blog-performance.jpg "Team meeting")
+![This is the caption](/blog/blog-performance.jpg "Team meeting")
 ```
 This image is wrapper inside the `<Wide />` component.
 
 <Wide>
-  ![This is the caption](/photos/blog-performance.jpg "Team meeting")
+  ![This is the caption](/blog/blog-performance.jpg "Team meeting")
 </Wide>
 
 ### Linked Images
@@ -131,7 +131,7 @@ This image is wrapper inside the `<Wide />` component.
 To add a link to an image, enclose the Markdown for the image in brackets, and then add the link in parentheses.
 
 ```md
-[![This is the caption](/photos/blog-performance.jpg "Team meeting")](https://en.wikipedia.org/wiki/Meeting)
+[![This is the caption](/blog/blog-performance.jpg "Team meeting")](https://en.wikipedia.org/wiki/Meeting)
 ```
 
 ---

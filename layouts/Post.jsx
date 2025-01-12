@@ -37,7 +37,7 @@ const Layout = ({
         authorName={authorName}
         description={seo?.description || description}
       />
-      <div className="relative mx-auto my-auto w-full p-4 pb-20 lg:p-20">
+      <div className="relative mx-auto my-auto w-full p-5 lg:p-20">
         <div className="prose prose-invert">
           <header className="mx-auto max-w-3xl space-y-10 text-center">
             <div>
@@ -86,19 +86,8 @@ const Layout = ({
             <ImageGallery images={images} />
           </div>
 
-          <div className="mt-6 grid gap-6 md:mt-12 md:grid-cols-[auto_3fr_auto] md:gap-0">
-            <div>
-              <SocialShare url={pageUrl} className="sticky left-10 top-12 z-10" />
-            </div>
-            <div className="prose prose-invert mx-auto max-w-prose prose-pre:max-w-[90vw]">
-              <ContentRenderer source={content} />
-            </div>
-          </div>
-
-          <Sep line className="my-20" />
-
-          <div className="mx-auto max-w-lg">
-            <Newsletter className="text-center" />
+          <div className="prose prose-invert mx-auto mt-6 prose-pre:max-w-[90vw] md:mt-12">
+            <ContentRenderer source={content} />
           </div>
         </div>
       </div>

@@ -6,14 +6,10 @@
  * Icons from react-icons: https://react-icons.github.io/react-icons
  */
 
-import { BiEnvelope } from 'react-icons/bi'
 import {
-  IoLogoInstagram,
-  IoLogoLinkedin,
   IoNewspaperSharp,
   IoHomeSharp,
   IoLaptopSharp,
-  IoMailSharp,
   IoImagesSharp,
 } from 'react-icons/io5'
 
@@ -41,33 +37,6 @@ export const menu = [
     name: 'Articles',
     slug: '/blog',
     Icon: IoNewspaperSharp,
-  },
-  {
-    name: 'Contact',
-    slug: '/contact',
-    Icon: IoMailSharp,
-  },
-]
-
-/**
- * Social Links under the Main Menu
- */
-
-export const social = [
-  {
-    name: 'Email',
-    url: 'mailto:aydinholjan@gmail.com',
-    Icon: BiEnvelope,
-  },
-  {
-    name: 'Linkedin',
-    url: 'https://www.linkedin.com/in/ajdin-holjan-16b795247/',
-    Icon: IoLogoLinkedin,
-  },
-  {
-    name: 'Instagram',
-    url: 'https://www.instagram.com/holjanajdin/',
-    Icon: IoLogoInstagram,
   },
 ]
 

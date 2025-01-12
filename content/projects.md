@@ -1,7 +1,7 @@
 ---
 layout: Projects
 seo:
-  title: Web Development Projects
+  title: Projects
   description: Custom description for this page goes here
 ---
 
@@ -13,7 +13,6 @@ collection:
 ---
 
 <PageTitle>
-  ### Latest Projects
+  <h3 class="mb-4">Latest Projects</h3>
+  <p class="mt-0">I have transformed ideas into remarkable digital products.</p> 
 </PageTitle>
-
-I have transformed ideas into remarkable digital products.
