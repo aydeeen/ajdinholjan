@@ -23,9 +23,9 @@ Use the form on this page or get in touch by other means.
 <Sep size="12" />
 
 <small>
-  <Icon src="/icons/call.svg" className="inline mr-2 align-middle fill-current text-omega-500" /> Phone: (888) 777-6666
+  <Icon src="/icons/call.svg" className="inline mr-2 align-middle fill-current text-omega-500" /> Phone: +387 61 381 580
 
-  <Icon src="/icons/mail.svg" className="mr-2 inline align-middle fill-current text-omega-500" /> Email: hello@carl.io
+  <Icon src="/icons/mail.svg" className="mr-2 inline align-middle fill-current text-omega-500" /> Email: aydinholjan@gmail.com
 
   <Icon src="/icons/logo-linkedin.svg" className="mr-2 inline align-middle fill-current text-omega-500" /> Linkedin: [CarlHanson](http://linkedin.com/vercel)
 

@@ -1,7 +1,7 @@
 ---
 layout: Home
 seo:
-  title: Web Developer
+  title: Full-Stack Developer
   description: Custom description for this page goes here
 ---
 
@@ -9,17 +9,18 @@ seo:
 images:
   - src: /hero.jpg
     alt: my photo
+    width: 490px
   - src: /hero-mobile.jpg
     alt: my photo
 ---
 
 # <Typewriter>Ajdin Holjan</Typewriter>
 
-# *Web Developer* <span>&</span> *Growth Consultant*
+# *Full-Stack Developer*
 
 <Sep size={12} />
 
-I am a front-end developer with over 7 years of experience, driven and eager to learn, focused mainly on building web applications and websites. I have professional hands-on experience working with many different technologies such as Wordpress, JavaScript, React, Vue.js and PHP. I am a team player with strong collaboration skills, who can adapt very quicky and with willingness to learn new technologies.
+I am a full-stack developer with over 7 years of experience, driven and eager to learn, focused mainly on building web applications and websites. I have professional hands-on experience working with many different technologies such as Wordpress, JavaScript, React, Vue.js and PHP. I am a team player with strong collaboration skills, who can adapt very quicky and with willingness to learn new technologies.
 
 
 
