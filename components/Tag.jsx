@@ -3,10 +3,10 @@ import classNames from 'clsx'
 import Link from 'next/link'
 
 const Tag = (props) => {
-  const { children, className, slug, ...rest } = props
+  const { children, className, slug, isProject = false, ...rest } = props
 
   const isLinked = Array.isArray(slug)
-  const Component = isLinked ? Link : 'span'
+  const Component = isLinked && !isProject ? Link : 'span'
   const href = isLinked ? slug.join('/') : undefined
 
   return (

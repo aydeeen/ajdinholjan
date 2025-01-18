@@ -1,5 +1,4 @@
 import React from 'react'
-import dynamic from 'next/dynamic'
 import { ArticleJsonLd } from 'next-seo'
 import ContentRenderer from '@/components/ContentRenderer'
 import Image from '@/components/Image'
@@ -7,11 +6,8 @@ import Tag from '@/components/Tag'
 import Date from '@/components/Date'
 import ImageGallery from '@/components/ImageGallery'
 import Sep from '@/components/Sep'
-import Newsletter from '@/components/Newsletter'
 import { siteMetaData } from '../theme.config'
 import authorImage from '../public/author-profile-picture.jpg'
-
-const SocialShare = dynamic(() => import('@/components/SocialShare'))
 
 const Layout = ({
   content,
@@ -32,7 +28,7 @@ const Layout = ({
         type="BlogPosting"
         url={pageUrl}
         title={title}
-        images={images.map((img) => siteUrl + img.src)}
+        images={images.map((img) => siteUrl + img?.src)}
         datePublished={date}
         authorName={authorName}
         description={seo?.description || description}
@@ -86,7 +82,11 @@ const Layout = ({
             <ImageGallery images={images} />
           </div>
 
-          <div className="prose prose-invert mx-auto mt-6 prose-pre:max-w-[90vw] md:mt-12">
+          <div
+            className={`prose prose-invert mx-auto ${
+              images.length < 2 && 'mt-6 md:mt-12'
+            } prose-pre:max-w-[90vw]`}
+          >
             <ContentRenderer source={content} />
           </div>
         </div>
