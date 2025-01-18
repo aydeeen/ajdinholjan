@@ -24,14 +24,14 @@ const ProjectCardHorizontal = ({
     )}
   >
     {images && (
-      <div className="not-prose relative block h-[35vh] w-full p-4">
+      <div className="not-prose relative block h-96 w-full">
         {images[0] && (
           <>
             <Image
               src={images[0].src}
               alt={images[0].alt || title}
               animation="fade-in mask-left"
-              wrapperClassName="transition-transform md:group-hover:scale-105 duration-300 ease-out"
+              wrapperClassName="transition-transform md:group-hover:scale-[1.03] duration-300 ease-out"
               className="!h-auto"
               sizes="(min-width: 768px) 540px, 100vw"
               priority={index === 0}
@@ -52,7 +52,7 @@ const ProjectCardHorizontal = ({
           {title}
         </h4>
       </div>
-      <small className="mt-6 block">{description}</small>
+      <small className="mt-0 md:mt-6 block">{description}</small>
       {tags && (
         <>
           <div className="mb-2 mt-6 font-bold dark:text-accent-400">Technologies</div>
