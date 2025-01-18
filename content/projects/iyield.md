@@ -6,7 +6,6 @@ date: '2025-01-18'
 tags:
   - wordpress
   - acf
-  - custom theme
   - javascript
   - php
   - scss

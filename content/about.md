@@ -2,17 +2,12 @@
 layout: About
 seo:
   title: About
-  description: Custom description for this page goes here
+  description: About Me
 ---
 
 
 
 ---personal_info
-name: CARL HANSON
-images:
-  - src: /about.jpg
-    alt: my image
----
 ##### <span>01.</span> About me
 
 Lorem consequat reprehenderit ipsum nulla qui pariatur tempor officia ad. Excepteur excepteur pariatur ad laborum labore reprehenderit. Do eiusmod sit pariatur nisi. Quis non dolor amet magna eu adipisicing est ex.
@@ -28,21 +23,12 @@ Ullamco cillum pariatur qui eu. Aliqua quis in adipisicing nulla do. Reprehender
 
 
 ---cta
----
-## Ready to discuss your project?
-
-Let's super-charge your business today!
-
-<Button href="/contact">
-  Get a Free Price Quote
-</Button>
-
 
 
 ---skills_header
 title: I'm Specialized in
 list:
-  - Front-End Design
+  - Technologies I use
   - Back-End Development
   - Modern Frameworks
 ---
@@ -50,28 +36,13 @@ list:
 
 
 ---skills[0]
-title: Back-End Development
 list:
-  - title: Node.js
-    level: 1
+  - title: React
     icon:
-      src: /icons/nodedotjs.svg
-  - title: Prisma
-    level: 3
+      src: /icons/react.svg
+  - title: Wordpress
     icon:
-      src: /icons/prisma.svg
-  - title: Svelte
-    level: 4
-    icon:
-      src: /icons/svelte.svg
-  - title: HTML5
-    level: 5
-    icon:
-      src: /icons/html5.svg
-  - title: Solidity
-    level: 2
-    icon:
-      src: /icons/solidity.svg
+      src: /icons/wordpress.svg
 ---
 
 
