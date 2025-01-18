@@ -32,7 +32,7 @@ const ProjectCardHorizontal = ({
               alt={images[0].alt || title}
               animation="fade-in mask-left"
               wrapperClassName="transition-transform md:group-hover:scale-105 duration-300 ease-out"
-              className="!h-[35v]"
+              className="!h-[35vh]"
               sizes="(min-width: 768px) 540px, 100vw"
               priority={index === 0}
               fill
