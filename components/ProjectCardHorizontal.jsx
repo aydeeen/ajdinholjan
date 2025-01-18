@@ -43,12 +43,12 @@ const ProjectCardHorizontal = ({
     )}
     <div className="p-4 md:p-10 md:pl-0">
       {logo?.src ? (
-        <Logo src={logo} className="mt-0 hidden md:block" />
+        <Logo src={logo} className="mt-0 mb-6 hidden md:block" />
       ) : (
-        <h6 className="text-omega-400 hidden md:block">{logo.alt}</h6>
+        <h6 className="mb-6 hidden text-omega-400 md:block">{logo.alt}</h6>
       )}
       <div href={slug.join('/')} aria-label={title}>
-        <h4 className="mt-6 transition-colors group-hover:text-accent dark:group-hover:text-alpha">
+        <h4 className="transition-colors group-hover:text-accent dark:group-hover:text-alpha">
           {title}
         </h4>
       </div>
