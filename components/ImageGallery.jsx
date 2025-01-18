@@ -8,7 +8,7 @@ const ImageGallery = (props) => {
   return (
     <div>
       {images.map((image, i) => (
-        <div key={i} className="[&:not(:last-child)]:mb-6">
+        <div key={i} className="[&:not(:last-child)]:mb-[clamp(24px,2vw+1rem,40px)]">
           <NextImage src={image?.src} alt={image?.alt} width="2000" height="1000" quality={100} />
         </div>
       ))}
