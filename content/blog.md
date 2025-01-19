@@ -24,4 +24,4 @@ collection:
 
 ### Categories
 
-<small class="mb-8 block">I write about web development and modern JavaScript frameworks.</small>
+<small className="mb-8 block">Exploring the latest trends in web development, that could be useful in our daily strugles of making our code better.</small>

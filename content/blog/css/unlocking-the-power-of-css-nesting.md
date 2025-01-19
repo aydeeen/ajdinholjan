@@ -1,8 +1,8 @@
 ---
 layout: Post
-title: "Unlocking the Power of CSS Nesting: A Game Changer for Your Stylesheets"
+title: 'Unlocking the Power of CSS Nesting: A Game Changer for Your Stylesheets'
 description: Do we need SCSS any more? With the introduction of native CSS nesting, the need for preprocessors like SCSS is less critical, as modern browsers now support cleaner and more maintainable nested rules.
-date: '2025-12-01'
+date: '2025-01-12'
 tags:
   - css
 images:
@@ -18,49 +18,50 @@ CSS is constantly evolving, and one of the latest additions to the language is C
 
 CSS nesting allows you to write your CSS selectors inside one another in a way that mirrors the HTML structure, making the code more readable and logical. Instead of writing long, repetitive selectors, you can group related styles together, which simplifies maintenance and enhances clarity.
 
-Here’s a simple example of how nesting works:
+Here's a simple example of how nesting works:
 
 ```css
-  nav {
-    background-color: #333;
-    
-    ul {
-      list-style-type: none;
-      padding: 0;
-      
-      li {
-        display: inline-block;
-        margin: 0 10px;
-        
-        a {
-          color: white;
-          text-decoration: none;
-        }
+nav {
+  background-color: #333;
+
+  ul {
+    list-style-type: none;
+    padding: 0;
+
+    li {
+      display: inline-block;
+      margin: 0 10px;
+
+      a {
+        color: white;
+        text-decoration: none;
       }
     }
   }
+}
 ```
+
 This code would be equivalent to something like this in traditional CSS:
 
 ```css
-  nav {
-    background-color: #333;
-  }
+nav {
+  background-color: #333;
+}
 
-  nav ul {
-    list-style-type: none;
-    padding: 0;
-  }
+nav ul {
+  list-style-type: none;
+  padding: 0;
+}
 
-  nav ul li {
-    display: inline-block;
-    margin: 0 10px;
-  }
+nav ul li {
+  display: inline-block;
+  margin: 0 10px;
+}
 
-  nav ul li a {
-    color: white;
-    text-decoration: none;
-  }
+nav ul li a {
+  color: white;
+  text-decoration: none;
+}
 ```
 
 As you can see, nesting lets you avoid repetition, and it's much easier to see how styles are organized at a glance.
@@ -89,7 +90,6 @@ For developers looking for simplicity, CSS nesting is a huge win. It allows you 
 
 If you've been hesitant to dive into preprocessors like SCSS due to their learning curve or build-tool requirements, CSS nesting offers a perfect entry point. It makes your code cleaner and easier to understand, without the need for any extra tools or build steps.
 
-In the end, it’s all about choosing the right tool for the job. Native CSS nesting offers a lightweight, browser-supported solution for cleaner code, while SCSS provides more advanced features for tackling large-scale projects. With both options available, developers have the flexibility to choose what works best for them.
+In the end, it's all about choosing the right tool for the job. Native CSS nesting offers a lightweight, browser-supported solution for cleaner code, while SCSS provides more advanced features for tackling large-scale projects. With both options available, developers have the flexibility to choose what works best for them.
 
-I hope this article gave you a better understanding of CSS nesting and it's potential to streamline your development process! 
-
+I hope this article gave you a better understanding of CSS nesting and it's potential to streamline your development process!

@@ -31,7 +31,7 @@ const History = ({ title, list }) => (
 const Skill = ({ title, icon }) => (
   <div className="flex items-center">
     {icon && (
-      <Icon width={28} height={28} {...icon} className="mr-3 h-7 w-7 text-omega-500" />
+      <Icon width={28} height={28} {...icon} className="mr-3 h-7 w-7 text-omega-500 shrink-0" />
     )}
     <small className="font-bold">{title}</small>
   </div>
@@ -42,7 +42,7 @@ const SkillSet = ({ title, list }) => (
     <p className="col-span-3 mt-0 mb-6 self-center border-l-2 border-alpha pl-3 text-white">
       {title}
     </p>
-    <div className="grid grid-cols-fluid gap-6 [--tw-fluid-col-min:7.5rem]">
+    <div className="grid grid-cols-fluid gap-6 [--tw-fluid-col-min:9.4rem]">
       {list?.map((props, j) => (
         <Reveal key={j} animation="fade-in" delay={j * 200}>
           <Skill {...props} />
@@ -59,7 +59,7 @@ const Layout = ({ personal_info = {}, skills_header, skills, history }) => {
         <div>
           {skills_header && (
             <div className="p-6 md:p-12">
-              <h3 className="mb-2">{skills_header.title}</h3>
+              <h2 className="mb-0">{skills_header.title}</h2>
               {skills_header.list && (
                 <h3 className="inline">
                   <Typewriter lines={skills_header.list} lineClassName="text-gradient-500" />
