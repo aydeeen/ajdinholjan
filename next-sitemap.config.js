@@ -4,7 +4,7 @@
  */
 
 module.exports = {
-  siteUrl: process.env.SITE_URL || process.env.VERCEL_URL || 'https://ajdinholjan.com/',
+  siteUrl: 'https://ajdinholjan.com/' || process.env.SITE_URL || process.env.VERCEL_URL,
   generateRobotsTxt: true,
   // ...other options
 }
