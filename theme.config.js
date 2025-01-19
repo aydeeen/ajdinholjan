@@ -86,9 +86,9 @@ export const siteMetaData = {
   siteUrl: process.env.NEXT_PUBLIC_SITE_URL || process.env.VERCEL_URL || 'http://localhost:3000',
   authorName: 'Ajdin Holjan',
   siteName: 'Ajdin Holjan',
-  defaultTitle: 'Carl Hanson Personal Site',
+  defaultTitle: 'Ajdin Holjan Personal Site',
   titleTemplate: 'Ajdin Holjan | %s',
-  description: 'A short description goes here.',
+  description: 'My personal portfolio website.',
   email: 'aydinholjan@gmail.com',
   locale: 'en_US',
   twitter: {
