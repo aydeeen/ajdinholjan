@@ -12,8 +12,6 @@ collection:
 
 ### Latest Articles
 
-A few handcrafted articles about my thoughts and experiments.
-
 
 
 ---categories
