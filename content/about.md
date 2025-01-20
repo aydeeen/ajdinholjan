@@ -130,15 +130,21 @@ list:
 ---history[0]
 title: Employment
 list:
-  - name: MetaVerse Inc.
-    description: Web3 Developer
-    date: 2020-Present
-  - name: Vircil Intl Co..
-    description: Back-End Developer and Designer
-    date: 2018-2020
-  - name: Crowdcube Inc.
-    description: Technical Support
-    date: 2018-2015
+  - name: HTEC Group
+    description: Software Engineer
+    date: Sep 2022 - Present
+  - name: Upwork - Freelance
+    description: Front-End Developer
+    date: Jul 2019 - Present
+  - name: MEDIADUDES GmbH
+    description: Front-End Developer 
+    date: Jan 2019 - Jun 2021
+  - name: InnoTech
+    description: Front-End Developer
+    date: Jul 2017 - Dec 2018
+  - name: Sarajevo Navigator
+    description: Front-End Developer
+    date: Jul 2016 - Jun 2017
 ---
 
 
@@ -146,13 +152,13 @@ list:
 ---history[1]
 title: Education
 list:
-  - name: Stanford university
-    description: MSc (Computer Science)
+  - name: University of Economics and Business
+    description: Master's Degree (Management and Organisation)
+    date: 2013-2016
+  - name: University of Economics and Business
+    description: Bachelor's Degree (Human Computer Interaction)
+    date: 2010-2013
+  - name: Prva Bošnjačka Gimnazija Sarajevo
+    description: High School
     date: 2006-2010
-  - name: University of Los Angeles
-    description: MSc (Human Computer Interaction)
-    date: 2010-2014
-  - name: Berkeley University
-    description: MSc (Information Technology)
-    date: 2015-2019
 ---

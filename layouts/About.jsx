@@ -54,8 +54,8 @@ const SkillSet = ({ title, list }) => (
 
 const Layout = ({ personal_info = {}, skills_header, skills, history }) => {
   return (
-    <div className="mx-auto">
-      <div className="prose prose-invert md:flex">
+    <div className="mx-auto w-full">
+      <div className="prose prose-invert">
         <div>
           {skills_header && (
             <div className="p-6 md:p-12">
@@ -74,9 +74,6 @@ const Layout = ({ personal_info = {}, skills_header, skills, history }) => {
               ))}
             </div>
           )}
-          <Reveal animation="fade-in slide-in-top" className="prose p-6 dark:prose-invert md:p-12">
-            <ContentRenderer source={personal_info} />
-          </Reveal>
         </div>
       </div>
       {history && (
