@@ -2,7 +2,7 @@
 layout: Home
 seo:
   title: Front-End Developer
-  description: Custom description for this page goes here
+  description: My personal portfolio & tech blog website.
 ---
 
 ---main

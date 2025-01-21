@@ -2,7 +2,7 @@
 layout: Blog
 seo:
   title: Blog
-  description: Custom description for this page goes here
+  description: My personal portfolio & tech blog website.
 collection:
   path: /blog
   sortBy: date

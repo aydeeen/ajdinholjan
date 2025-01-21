@@ -3,7 +3,7 @@ layout: Blog
 title: CSS
 seo:
   title: CSS Articles
-  description: Custom description for this page goes here
+  description: My personal portfolio & tech blog website.
 collection:
   path: /blog
   recordsPerPage: 9
