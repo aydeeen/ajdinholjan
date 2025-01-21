@@ -7,7 +7,7 @@ import Date from '@/components/Date'
 import ImageGallery from '@/components/ImageGallery'
 import Sep from '@/components/Sep'
 import { siteMetaData } from '../theme.config'
-import authorImage from '../public/author-profile-picture.jpg'
+import authorImage from '../public/hero-mobile.jpg'
 
 const Layout = ({
   content,
