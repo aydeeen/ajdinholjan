@@ -134,7 +134,7 @@ list:
     description: Software Engineer
     date: Sep 2022 - Present
   - name: Upwork - Freelance
-    description: Front-End Developer
+    description: Front-End Developer - Top Rated
     date: Jul 2019 - Present
   - name: MEDIADUDES GmbH
     description: Front-End Developer 
