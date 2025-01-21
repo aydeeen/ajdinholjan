@@ -12,9 +12,8 @@ logo:
   width: 500          
   height: 250         
 images:
-  - src: /projects/hoo-bank/aa.svg
   - src: /projects/hoo-bank/bank-ivory.vercel.app_.png
-  - src: /projects/hoo-bank/bank-ivory.vercel.app_ (1).png
-  - src: /projects/hoo-bank/bank-ivory.vercel.app_ (2).png
-  - src: /projects/hoo-bank/bank-ivory.vercel.app_ (3).png
+  - src: /projects/hoo-bank/bank-ivory.vercel.app_(1).png
+  - src: /projects/hoo-bank/bank-ivory.vercel.app_(2).png
+  - src: /projects/hoo-bank/bank-ivory.vercel.app_(3).png
 ---
