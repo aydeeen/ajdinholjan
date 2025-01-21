@@ -24,15 +24,15 @@ const ProjectCardHorizontal = ({
     )}
   >
     {images && (
-      <div className="not-prose relative block h-96 w-full">
+      <div className="not-prose relative block w-full md:h-96">
         {images[0] && (
           <>
             <Image
               src={images[0].src}
               alt={images[0].alt || title}
               animation="fade-in mask-left"
-              wrapperClassName="transition-transform md:group-hover:scale-[1.03] duration-300 ease-out"
-              className="!h-auto"
+              wrapperClassName="transition-transform md:group-hover:scale-[1.03] duration-300 ease-out md:flex md:items-center"
+              className="!h-auto max-md:!static"
               sizes="(min-width: 768px) 540px, 100vw"
               priority={index === 0}
               fill
