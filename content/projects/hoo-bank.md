@@ -8,7 +8,7 @@ tags:
   - vite
   - tailwind
 logo:
-  src: /projects/hoo-bank/logo.png
+  src: /projects/hoo-bank/logo.svg
   width: 500          
   height: 250         
 images:
