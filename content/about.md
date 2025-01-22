@@ -158,7 +158,4 @@ list:
   - name: University of Economics and Business
     description: Bachelor's Degree (Human Computer Interaction)
     date: 2010-2013
-  - name: Prva Bošnjačka Gimnazija Sarajevo
-    description: High School
-    date: 2006-2010
 ---
