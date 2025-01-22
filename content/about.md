@@ -105,19 +105,18 @@ list:
   - title: jQuery
     icon:
       src: /icons/jquery.svg
-  - title: CSS3
-    icon:
-      src: /icons/css3.svg
   - title: HTML5
     icon:
       src: /icons/html5.svg
-  - title: Docker
+  - title: CSS3
     icon:
-      src: /icons/docker.svg
+      src: /icons/css3.svg
   - title: GIT
     icon:
       src: /icons/git.svg
-
+  - title: Docker
+    icon:
+      src: /icons/docker.svg
   - title: Hasura
     icon:
       src: /icons/hasura.svg
