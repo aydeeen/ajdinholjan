@@ -78,6 +78,9 @@ list:
   - title: Apollo
     icon:
       src: /icons/apollo.svg
+  - title: Astro
+    icon:
+      src: /icons/astro.svg
   - title: Alpine
     icon:
       src: /icons/alpine.svg
@@ -108,15 +111,13 @@ list:
   - title: HTML5
     icon:
       src: /icons/html5.svg
-  - title: GitHub
-    icon:
-      src: /icons/github.svg
-  - title: GIT
-    icon:
-      src: /icons/git.svg
   - title: Docker
     icon:
       src: /icons/docker.svg
+  - title: GIT
+    icon:
+      src: /icons/git.svg
+
   - title: Hasura
     icon:
       src: /icons/hasura.svg
@@ -135,7 +136,7 @@ list:
     date: Sep 2022 - Present
   - name: Upwork - Freelance
     description: Front-End Developer - Top Rated
-    date: Jul 2019 - Present
+    date: Jul 2019 - Aug 2022
   - name: MEDIADUDES GmbH
     description: Front-End Developer 
     date: Jan 2019 - Jun 2021
