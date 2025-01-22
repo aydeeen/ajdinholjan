@@ -156,6 +156,6 @@ list:
     description: Master's Degree (Management and Organisation)
     date: 2013-2016
   - name: University of Economics and Business
-    description: Bachelor's Degree (Human Computer Interaction)
+    description: Bachelor's Degree (Marketing)
     date: 2010-2013
 ---
