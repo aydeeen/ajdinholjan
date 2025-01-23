@@ -46,7 +46,12 @@ const Layout = ({
             </div>
             <h1 className="mb-0">
               {link ? (
-                <a href={link} target="_blank" rel="noreferrer" className='underline transition-colors hover:text-beta'>
+                <a
+                  href={link}
+                  target="_blank"
+                  rel="noreferrer"
+                  className="hover:text-gradient-500 underline transition-colors"
+                >
                   {title}
                 </a>
               ) : (
