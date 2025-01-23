@@ -13,6 +13,7 @@ const Layout = ({
   content,
   title,
   description,
+  link,
   date,
   seo = {},
   tags = [],
@@ -43,7 +44,7 @@ const Layout = ({
                 </Tag>
               ))}
             </div>
-            <h1 className="mb-0">{title}</h1>
+            <h1 className="mb-0">{link ? <a href={link}>{title}</a> : {title}}</h1>
             <div className="flex items-center justify-center">
               <div className="basis-1/3 text-right">
                 By <strong>{authorName}</strong>
