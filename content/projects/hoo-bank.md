@@ -1,7 +1,7 @@
 ---
 layout: Post
 title: Hoo Bank
-description: Personal showcase project built in React and Vite. Tailwind used for CSS.
+description: Modern website using React, Vite and Tailwind.
 date: '2025-01-20'
 tags:
   - react
@@ -12,8 +12,8 @@ logo:
   width: 500          
   height: 250         
 images:
-  - src: /projects/hoo-bank/bank-ivory.vercel.app_.png
-  - src: /projects/hoo-bank/bank-ivory.vercel.app_(1).png
-  - src: /projects/hoo-bank/bank-ivory.vercel.app_(2).png
-  - src: /projects/hoo-bank/bank-ivory.vercel.app_(3).png
+  - src: /projects/hoo-bank/1.png
+  - src: /projects/hoo-bank/2.png
+  - src: /projects/hoo-bank/3.png
+  - src: /projects/hoo-bank/4.png
 ---
