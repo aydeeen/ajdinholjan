@@ -1,13 +1,13 @@
 ---
 layout: Post
 title: HooBank
-description: Modern website using React, Vite and Tailwind.
+description: Modern website using React, Tailwind and Vite.
 link: https://hoobank-orcin-chi.vercel.app/
 date: '2025-01-23'
 tags:
   - react
-  - vite
   - tailwind
+  - vite
 logo:
   src: /projects/hoobank/logo.svg
   width: 500          

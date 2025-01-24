@@ -3,7 +3,7 @@ layout: Post
 title: Metaverse
 description: Next.js Powered Website With Framer Motion & Tailwind
 link: https://metaverse-ecru-omega.vercel.app/
-date: '2025-01-21'
+date: '2025-01-19 '
 tags:
   - next
   - react
