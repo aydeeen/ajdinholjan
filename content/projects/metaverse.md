@@ -1,11 +1,12 @@
 ---
-layout: Metaverse
-title: HooBank
+layout: Post
+title: Metaverse
 description: Next.js Powered Website With Framer Motion & Tailwind
 link: https://hoobank-orcin-chi.vercel.app/
-date: '2025-01-23'
+date: '2025-01-22'
 tags:
   - next
+  - react
   - tailwind
   - motion      
 images:
