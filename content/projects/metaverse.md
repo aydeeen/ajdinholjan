@@ -2,7 +2,7 @@
 layout: Post
 title: Metaverse
 description: Next.js Powered Website With Framer Motion & Tailwind
-link: https://hoobank-orcin-chi.vercel.app/
+link: https://metaverse-ecru-omega.vercel.app/
 date: '2025-01-22'
 tags:
   - next
