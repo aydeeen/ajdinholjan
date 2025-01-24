@@ -1,7 +1,7 @@
 ---
 layout: Post
 title: Brainwave
-description: Modern website using React, Tailwind and Vite.
+description: A modern AI chatbot application designed to transform the conversation experience built using React, Tailwind, and Vite.
 link: https://brainwave-vert-tau.vercel.app/
 date: '2025-01-21'
 tags:
