@@ -55,7 +55,7 @@ const Layout = ({
                   {title}
                 </a>
               ) : (
-                { title }
+                title
               )}
             </h1>
             <div className="flex items-center justify-center">

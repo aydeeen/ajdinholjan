@@ -14,7 +14,3 @@ collection:
       $in:
         - css
 ---
-
-### CSS Articles
-
-Marketing tactics and technologies used to reach consumers online.
