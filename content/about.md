@@ -135,7 +135,7 @@ list:
     date: Sep 2022 - Present
   - name: Upwork - Freelance
     description: Front-End Developer - Top Rated
-    date: Jul 2019 - Aug 2022
+    date: Jul 2019 - Present
   - name: MEDIADUDES GmbH
     description: Front-End Developer 
     date: Jan 2019 - Jun 2021
