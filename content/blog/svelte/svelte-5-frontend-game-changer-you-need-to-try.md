@@ -11,7 +11,7 @@ images:
     alt: Svelte
 ---
 
-So, what makes Svelte tick? Well, unlike some of its cousins that rely on a virtual DOM (you know the ones), Svelte takes a completely different, almost magical approach. It compiles your code directly into tiny, pure vanilla JavaScript. Think about that for a second: less bloat, less overhead, and applications that practically fly right out of the box. It's like having your cake and eating it too, but the cake is made of pure performance.
+So, what makes Svelte tick? Well, unlike some of its cousins that rely on a virtual DOM (you know the ones), Svelte takes a completely different, almost magical approach. It compiles your code directly into tiny, pure vanilla JavaScript. Think about that for a second: less bloat, less overhead, and applications that practically fly right out of the box.
 
 But here's where Svelte 5 really shines: they've introduced something called "Runes." This new reactivity system is a total game-changer for state management. It makes handling all those dynamic parts of your UI feel incredibly intuitive and efficient. If you've ever wrestled with complex state in other frameworks, you'll appreciate how Svelte 5 simplifies things. Building interactive UIs becomes less of a chore and more of a creative flow.
 
