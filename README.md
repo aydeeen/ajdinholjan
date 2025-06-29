@@ -66,4 +66,4 @@ All content is written in Markdown/MDX for easy editing.
 
 > **Ajdin Holjan**  
 > [ajdinholjan.com](https://ajdinholjan.com)  
-> [LinkedIn](https://www.linkedin.com/in/ajdinholjan/) • [GitHub](https://github.com/ajdinholjan)
+> [LinkedIn](www.linkedin.com/in/ajdin-holjan-16b795247) • [GitHub](https://github.com/aydeeen)
