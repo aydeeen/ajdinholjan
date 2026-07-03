@@ -234,7 +234,6 @@ const createSvg = ({ title, kicker, colors }) => {
     <style>
       .kicker { fill: ${highlight}; font: 700 38px Arial, sans-serif; letter-spacing: 8px; text-transform: uppercase; }
       .title { fill: #fff; font: 800 88px Arial, sans-serif; letter-spacing: 0; }
-      .meta { fill: rgba(255,255,255,.72); font: 500 34px Arial, sans-serif; }
       .line { stroke: ${highlight}; stroke-width: 8; stroke-linecap: round; opacity: .92; }
       .grid { stroke: rgba(255,255,255,.11); stroke-width: 2; }
     </style>
@@ -256,7 +255,6 @@ const createSvg = ({ title, kicker, colors }) => {
   <line x1="150" y1="235" x2="360" y2="235" class="line"/>
   <text x="150" y="190" class="kicker">${escapeHtml(kicker)}</text>
   ${titleSvg}
-  <text x="150" y="835" class="meta">Ajdin Holjan - Technical Notes</text>
   <circle cx="1710" cy="785" r="84" fill="${highlight}" opacity=".88"/>
   <circle cx="1585" cy="785" r="48" fill="${accent}" opacity=".9"/>
 </svg>`

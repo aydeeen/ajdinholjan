@@ -7,11 +7,14 @@ seo:
 
 ---main
 images:
-  - src: /hero.jpg
+  - src: /hero-main.jpg
     alt: my photo
-    width: 490px
-  - src: /hero-mobile.jpg
+    width: 520
+    height: 520
+  - src: /hero-main.jpg
     alt: my photo
+    width: 520
+    height: 520
 ---
 
 # <Typewriter>Ajdin Holjan</Typewriter>

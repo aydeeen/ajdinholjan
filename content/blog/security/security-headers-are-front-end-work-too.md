@@ -32,7 +32,7 @@ A basic review usually includes:
 - `Referrer-Policy`
 - `Permissions-Policy`
 - `X-Content-Type-Options`
-- Framing protections
+- `Framing protections`
 
 The exact policy depends on the project. A strict CSP on a site full of third-party embeds can become noisy fast. But ignoring the topic completely is worse.
 

@@ -13,6 +13,7 @@ const Paging = ({ totalPages, currentPage, slug, infinite = false }) => {
     triggerOnce: false,
     threshold: 1,
   })
+  const isInfiniteSession = infinite && router.query.infinite
 
   React.useEffect(() => {
     router.events.on('routeChangeStart', () => setIsFetching(true))
@@ -43,6 +44,14 @@ const Paging = ({ totalPages, currentPage, slug, infinite = false }) => {
       { scroll: false }
     )
   }, [router, currentPage, slug, totalPages, infinite, isIntersecting])
+
+  if (isInfiniteSession) {
+    return (
+      <div ref={inViewRef} className="mt-10 flex h-10 items-center justify-center text-omega-500">
+        {isFetching && <Loader />}
+      </div>
+    )
+  }
 
   return (
     <div ref={inViewRef}>
