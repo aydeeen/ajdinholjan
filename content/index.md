@@ -20,7 +20,7 @@ images:
 
 <Sep size={12} />
 
-I build fast, maintainable websites and web applications using WordPress, WooCommerce, React, Next.js, TypeScript, and Tailwind CSS.
+I build fast, maintainable websites and web applications using WordPress, WooCommerce, React, Next.js, TypeScript and Tailwind CSS.
 
 With more than seven years of experience, my work ranges from custom WordPress themes, reusable ACF blocks, and WooCommerce solutions to modern React and Next.js interfaces and front-end integrations.
 
