@@ -4,11 +4,11 @@
  ****************************************************************/
 
 const subscribe = async (req, res) => {
-  const { email } = req.body
-
   if (req.method !== 'POST') {
     return res.status(405).send({ error: 'Request method is not allowed.' })
   }
+
+  const { email } = req.body
 
   if (!email) {
     return res.status(400).json({ error: 'Email is required.' })
@@ -18,6 +18,10 @@ const subscribe = async (req, res) => {
     const FORM_ID = process.env.CONVERTKIT_FORM_ID
     const API_KEY = process.env.CONVERTKIT_API_KEY
     const API_URL = process.env.CONVERTKIT_API_URL
+
+    if (!FORM_ID || !API_KEY || !API_URL) {
+      return res.status(400).json({ error: 'ConvertKit is not configured.' })
+    }
 
     const data = { email, api_key: API_KEY }
 

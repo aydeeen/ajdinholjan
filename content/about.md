@@ -10,19 +10,28 @@ seo:
 ---personal_info
 ##### <span>01.</span> About me
 
-Lorem consequat reprehenderit ipsum nulla qui pariatur tempor officia ad. Excepteur excepteur pariatur ad laborum labore reprehenderit. Do eiusmod sit pariatur nisi. Quis non dolor amet magna eu adipisicing est ex.
+I am a front-end developer who enjoys the craft side of building for the web: small interaction details, responsive layouts that do not fight the user, and codebases that are easy to keep improving.
+
+Over the years I have worked across product teams, freelance projects, WordPress builds, e-commerce sites, and custom React/Next.js applications. That mix made me pragmatic. I like modern tools, but I like finished, reliable work even more.
 
 ##### <span>02.</span> Interests and Hobbies
 
-Ad Lorem et amet exercitation enim culpa nulla laboris eu eiusmod. Irure fugiat sunt esse consequat consectetur eu laboris voluptate eiusmod dolor. Nisi velit consectetur deserunt esse aliquip esse officia consequat eiusmod voluptate cupidatat id.
+Outside client and product work, I keep a steady habit of exploring what is changing in the front-end ecosystem: CSS platform features, framework ergonomics, performance patterns, AI-assisted workflows, and the slow work of making developer experience calmer.
+
+I also like projects where design and engineering meet. A good interface is not only pretty and not only correct; it has rhythm, restraint, and a little bit of kindness for the person using it.
 
 ##### <span>03.</span> Framework Preferences
 
-Ullamco cillum pariatur qui eu. Aliqua quis in adipisicing nulla do. Reprehenderit cupidatat eiusmod cupidatat ut ipsum pariatur Lorem incididunt. Veniam sunt reprehenderit consectetur ullamco laborum magna sit aliquip minim esse.
+For larger app surfaces I usually reach for React, Next.js, TypeScript, and Tailwind CSS. For content-heavy, marketing, or commerce work I am comfortable with WordPress, WooCommerce, Webflow, Shopify, and the smaller JavaScript needed to make those platforms feel custom without becoming fragile.
+
+My default preference is boring where boring helps: simple data flow, clear component boundaries, accessible HTML, and just enough abstraction to keep the next change easy.
 
 
 
 ---cta
+
+<Button href="/projects">View Projects</Button>
+<Button href="/blog">Read Articles</Button>
 
 
 ---skills_header

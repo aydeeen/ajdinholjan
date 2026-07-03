@@ -12,15 +12,16 @@ const Seo = (props) => {
     ...seo,
   }
 
-  const ogImageUrl = images?.[0]?.src ? metaData.siteUrl + images[0].src : undefined
-
   const openGraph = {
     url: pageUrl,
     title: metaData.title,
     description: metaData.description,
-    images: [{ url: ogImageUrl }],
     site_name: metaData.siteName,
     locale: metaData.locale,
+  }
+
+  if (images?.[0]?.src) {
+    openGraph.images = [{ url: metaData.siteUrl + images[0].src }]
   }
 
   return <NextSeo {...metaData} openGraph={openGraph} />

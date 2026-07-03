@@ -2,7 +2,7 @@
 layout: Home
 seo:
   title: Front-End Developer
-  description: My personal portfolio & tech blog website.
+  description: Portfolio and technical notes from front-end developer Ajdin Holjan.
 ---
 
 ---main
@@ -20,16 +20,16 @@ images:
 
 <Sep size={12} />
 
-I am a passionate and results-driven front-end developer with a focus on building dynamic, user-friendly websites and web applications. With expertise in technologies such as JavaScript, React, Next, TypeScript, Tailwind, Webflow and WordPress, I am committed to delivering high-quality, scalable solutions that align with both user needs and business objectives.
+I build fast, maintainable websites and web applications with a practical front-end stack: JavaScript, React, Next.js, TypeScript, Tailwind CSS, Webflow, and WordPress.
 
-As a collaborative team player, I thrive in fast-paced environments and bring strong communication and problem-solving skills to every project. Dedicated to continuous learning, I invest over 20 hours each month exploring emerging tools and technologies, staying ahead of industry trends and maintaining a cutting-edge skillset.
+Most of my work sits in the useful middle: turning ideas and designs into interfaces that feel polished, load quickly, and are still understandable when another developer opens the project six months later. I care about clean implementation, clear communication, and choosing tools because they solve real problems.
 
 
 ---achievements
-- number: 7+
+- number: 10+
   text: Years of experience
 - number: 60+
   text: Projects Completed
-- number: 15+
+- number: 25+
   text: Technologies Used
 ---

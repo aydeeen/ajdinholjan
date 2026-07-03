@@ -22,4 +22,4 @@ collection:
 
 ### Categories
 
-<small className="mb-8 block">Exploring the latest trends in web development, that could be useful in our daily strugles of making our code better.</small>
+<small className="mb-8 block">Notes on the web platform, practical front-end architecture, and the small decisions that make everyday development better.</small>

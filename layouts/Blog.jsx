@@ -17,7 +17,7 @@ const Layout = ({ pagination, collection, slug, content, categories }) => {
 
   return (
     <div className="mx-auto w-full">
-      <div className="prose prose-headings:mb-4 dark:prose-invert">
+      <div className="prose dark:prose-invert prose-headings:mb-4">
         {categories && (
           <>
             <div className="bg-omega-800">

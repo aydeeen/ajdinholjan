@@ -31,7 +31,7 @@ const History = ({ title, list }) => (
 const Skill = ({ title, icon }) => (
   <div className="flex items-center">
     {icon && (
-      <Icon width={28} height={28} {...icon} className="mr-3 h-7 w-7 text-omega-500 shrink-0" />
+      <Icon width={28} height={28} {...icon} className="mr-3 h-7 w-7 shrink-0 text-omega-500" />
     )}
     <small className="font-bold">{title}</small>
   </div>
@@ -39,7 +39,7 @@ const Skill = ({ title, icon }) => (
 
 const SkillSet = ({ title, list }) => (
   <div className="bg-gradient-omega-900 p-6 md:px-12 md:py-8">
-    <p className="col-span-3 mt-0 mb-6 self-center border-l-2 border-alpha pl-3 text-white">
+    <p className="col-span-3 mb-6 mt-0 self-center border-l-2 border-alpha pl-3 text-white">
       {title}
     </p>
     <div className="grid grid-cols-fluid gap-6 [--tw-fluid-col-min:9.4rem]">
@@ -52,11 +52,16 @@ const SkillSet = ({ title, list }) => (
   </div>
 )
 
-const Layout = ({ personal_info = {}, skills_header, skills, history }) => {
+const Layout = ({ personal_info = {}, cta, skills_header, skills, history }) => {
   return (
     <div className="mx-auto w-full">
       <div className="prose prose-invert">
         <div>
+          {personal_info && (
+            <div className="p-6 md:p-12">
+              <ContentRenderer source={personal_info} />
+            </div>
+          )}
           {skills_header && (
             <div className="p-6 md:p-12">
               <h2 className="mb-0">{skills_header.title}</h2>
@@ -72,6 +77,11 @@ const Layout = ({ personal_info = {}, skills_header, skills, history }) => {
               {skills.map((props, i) => (
                 <SkillSet key={i} {...props} />
               ))}
+            </div>
+          )}
+          {cta && (
+            <div className="p-6 md:p-12">
+              <ContentRenderer source={cta} />
             </div>
           )}
         </div>

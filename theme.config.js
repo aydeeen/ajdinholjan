@@ -11,6 +11,8 @@ import {
   IoHomeSharp,
   IoLaptopSharp,
   IoImagesSharp,
+  IoLogoGithub,
+  IoLogoLinkedin,
 } from 'react-icons/io5'
 
 /**
@@ -40,6 +42,19 @@ export const menu = [
   },
 ]
 
+export const social = [
+  {
+    name: 'GitHub',
+    url: 'https://github.com/aydeeen',
+    Icon: IoLogoGithub,
+  },
+  {
+    name: 'LinkedIn',
+    url: 'https://www.linkedin.com/in/ajdin-holjan-16b795247/',
+    Icon: IoLogoLinkedin,
+  },
+]
+
 /**
  * General configurations
  */
@@ -58,8 +73,8 @@ export const config = {
   },
   contactForm: {
     inputs: require('./content/contact-form.json'),
-    recipient: 'RECIPIENT@EXAMPLE.com',
-    sender: 'SENDER@EXAMPLE.com',
+    recipient: process.env.CONTACT_FORM_RECIPIENT || 'RECIPIENT@EXAMPLE.com',
+    sender: process.env.CONTACT_FORM_SENDER || 'SENDER@EXAMPLE.com',
     subject: 'EMAIL NOTIFICATION SUBJECT',
   },
 }
@@ -86,9 +101,10 @@ export const siteMetaData = {
   siteUrl: process.env.NEXT_PUBLIC_SITE_URL || process.env.VERCEL_URL || 'http://localhost:3000',
   authorName: 'Ajdin Holjan',
   siteName: 'Ajdin Holjan',
-  defaultTitle: 'Ajdin Holjan Personal Site',
+  defaultTitle: 'Ajdin Holjan | Front-End Developer',
   titleTemplate: 'Ajdin Holjan | %s',
-  description: 'My personal portfolio website.',
+  description:
+    'Portfolio and technical notes from Ajdin Holjan, a front-end developer focused on React, Next.js, TypeScript, Tailwind CSS, and practical web delivery.',
   email: 'aydinholjan@gmail.com',
   locale: 'en_US',
   twitter: {
