@@ -7,14 +7,11 @@ seo:
 
 ---main
 images:
-  - src: /hero-main.jpg
+  - src: /hero.jpg
     alt: my photo
-    width: 520
-    height: 520
-  - src: /hero-main.jpg
+    width: 490px
+  - src: /hero-mobile.jpg
     alt: my photo
-    width: 520
-    height: 520
 ---
 
 # <Typewriter>Ajdin Holjan</Typewriter>
@@ -23,9 +20,11 @@ images:
 
 <Sep size={12} />
 
-I build fast, maintainable websites and web applications with a practical front-end stack: JavaScript, React, Next.js, TypeScript, Tailwind CSS, Webflow, and WordPress.
+I build fast, maintainable websites and web applications using WordPress, WooCommerce, React, Next.js, TypeScript, and Tailwind CSS.
 
-Most of my work sits in the useful middle: turning ideas and designs into interfaces that feel polished, load quickly, and are still understandable when another developer opens the project six months later. I care about clean implementation, clear communication, and choosing tools because they solve real problems.
+With more than seven years of experience, my work ranges from custom WordPress themes, reusable ACF blocks, and WooCommerce solutions to modern React and Next.js interfaces and front-end integrations.
+
+I turn ideas and designs into polished, responsive products that load quickly, work reliably, and remain easy to manage long after launch. I value clean implementation, clear communication, and practical technical decisions over unnecessary complexity.
 
 
 ---achievements

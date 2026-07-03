@@ -22,7 +22,7 @@ I also like projects where design and engineering meet. A good interface is not 
 
 ##### <span>03.</span> Framework Preferences
 
-For larger app surfaces I usually reach for React, Next.js, TypeScript, and Tailwind CSS. For content-heavy, marketing, or commerce work I am comfortable with WordPress, WooCommerce, Webflow, Shopify, and the smaller JavaScript needed to make those platforms feel custom without becoming fragile.
+For larger app surfaces I usually reach for React, Next.js, TypeScript, and Tailwind CSS. For content-heavy, marketing, or commerce work I am comfortable with WordPress, WooCommerce, and the smaller JavaScript needed to make those platforms feel custom without becoming fragile.
 
 My default preference is boring where boring helps: simple data flow, clear component boundaries, accessible HTML, and just enough abstraction to keep the next change easy.
 
@@ -63,15 +63,6 @@ list:
   - title: Elementor
     icon:
       src: /icons/elementor.svg
-  - title: Shopify
-    icon:
-      src: /icons/shopify.svg
-  - title: Webflow
-    icon:
-      src: /icons/webflow.svg
-  - title: Squarespace
-    icon:
-      src: /icons/squarespace.svg
   - title: JavaScript
     icon:
       src: /icons/javascript.svg

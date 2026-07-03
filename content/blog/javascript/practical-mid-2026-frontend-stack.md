@@ -16,7 +16,7 @@ images:
 
 If I were starting a serious front-end project in mid-2026, I would still avoid chasing novelty for its own sake.
 
-My default stack would look familiar: React, Next.js when the project benefits from routing and rendering structure, TypeScript, Tailwind CSS, a focused component layer, and a build setup that keeps local development fast. For smaller app surfaces, I would happily reach for Vite. For content-heavy client work, I would still consider WordPress, Webflow, or Shopify if they match the business reality better than a custom app.
+My default stack would look familiar: React, Next.js when the project benefits from routing and rendering structure, TypeScript, Tailwind CSS, a focused component layer, and a build setup that keeps local development fast. For smaller app surfaces, I would happily reach for Vite. For content-heavy client work, I would still consider WordPress if it matches the business reality better than a custom app.
 
 That last part matters. A good stack is not the fanciest stack. It is the one that fits the project, the team, and the next two years of maintenance.
 
