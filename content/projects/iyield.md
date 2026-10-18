@@ -2,7 +2,6 @@
 layout: Post
 title: iYield
 description: Custom Wordpress based website built with ACF Custom Blocks.
-link: https://iyield.com/
 date: '2025-01-22'
 tags:
   - wordpress

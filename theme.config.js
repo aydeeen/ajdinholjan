@@ -98,7 +98,7 @@ export const mdxConfig = {
  */
 
 export const siteMetaData = {
-  siteUrl: process.env.NEXT_PUBLIC_SITE_URL || process.env.VERCEL_URL || 'http://localhost:3000',
+  siteUrl: process.env.NEXT_PUBLIC_SITE_URL || process.env.SITE_URL || 'https://ajdinholjan.com',
   authorName: 'Ajdin Holjan',
   siteName: 'Ajdin Holjan',
   defaultTitle: 'Ajdin Holjan | Front-End Developer',
@@ -108,8 +108,6 @@ export const siteMetaData = {
   email: 'aydinholjan@gmail.com',
   locale: 'en_US',
   twitter: {
-    handle: '@handle',
-    site: '@site',
     cardType: 'summary_large_image',
   },
 }

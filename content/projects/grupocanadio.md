@@ -3,7 +3,7 @@ layout: Post
 title: Grupo Cañadío
 description: Custom WordPress website for a restaurant group, built with Tailwind CSS and a polished editorial front-end.
 link: https://www.grupocanadio.com/
-date: '2025-01-24'
+date: '2026-07-05'
 tags:
   - wordpress
   - tailwind

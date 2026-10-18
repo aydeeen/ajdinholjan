@@ -132,19 +132,16 @@ title: Employment
 list:
   - name: HTEC Group
     description: Software Engineer
-    date: Sep 2022 - Present
+    date: Aug 2022 - Present
   - name: Upwork - Freelance
-    description: Front-End Developer - Top Rated
+    description: Front-End Developer - Top Rated Plus
     date: Jul 2019 - Present
   - name: MEDIADUDES GmbH
-    description: Front-End Developer 
-    date: Jan 2019 - Jun 2021
+    description: Full-Stack Developer (WordPress)
+    date: Jan 2019 - Jul 2022
   - name: InnoTech
     description: Front-End Developer
-    date: Jul 2017 - Dec 2018
-  - name: Sarajevo Navigator
-    description: Front-End Developer
-    date: Jul 2016 - Jun 2017
+    date: Jul 2015 - Dec 2018
 ---
 
 
