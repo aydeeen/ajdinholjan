@@ -22,7 +22,7 @@ images:
 
 I build fast, maintainable websites and web applications using WordPress, WooCommerce, React, Next.js, TypeScript and Tailwind CSS.
 
-With more than seven years of experience, my work ranges from custom WordPress themes, reusable ACF blocks, and WooCommerce solutions to modern React and Next.js interfaces and front-end integrations.
+With 10 years of experience, my work ranges from custom WordPress themes, reusable ACF blocks, and WooCommerce solutions to modern React and Next.js interfaces and front-end integrations.
 
 I turn ideas and designs into polished, responsive products that load quickly, work reliably, and remain easy to manage long after launch. I value clean implementation, clear communication, and practical technical decisions over unnecessary complexity.
 
