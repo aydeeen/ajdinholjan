@@ -6,15 +6,17 @@ link: https://prolifeeurope.org/
 date: '2025-04-06'
 tags:
   - wordpress
+  - acf
   - tailwind
   - alpine
-  - acf
+  - figma
 logo:
   src: /projects/prolife/logo.svg
   width: 500          
   height: 250         
+cover:
+  src: /projects/prolife/cover-web.png
 images:
-  - src: /projects/prolife/cover.png
   - src: /projects/prolife/1.png
   - src: /projects/prolife/2.png
   - src: /projects/prolife/3.png

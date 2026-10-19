@@ -2,7 +2,7 @@
 layout: Blog
 seo:
   title: Blog
-  description: My personal portfolio & tech blog website.
+  description: Articles on front-end development, React, Next.js, WordPress and the web platform by Ajdin Holjan.
 collection:
   path: /blog
   sortBy: date

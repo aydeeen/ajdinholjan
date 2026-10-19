@@ -104,7 +104,7 @@ export const siteMetaData = {
   defaultTitle: 'Ajdin Holjan | WordPress & Next.js Developer',
   titleTemplate: 'Ajdin Holjan | %s',
   description:
-    'Portfolio and technical notes from Ajdin Holjan, a front-end developer focused on React, Next.js, TypeScript, Tailwind CSS, and practical web delivery.',
+    'Portfolio and articles by Ajdin Holjan, a WordPress and Next.js developer building fast, custom websites and web apps with React, TypeScript and Tailwind CSS.',
   email: 'aydinholjan@gmail.com',
   locale: 'en_US',
   twitter: {

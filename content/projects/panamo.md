@@ -6,15 +6,17 @@ link: https://panamo.io/
 date: '2025-01-17'
 tags:
   - wordpress
+  - acf
   - tailwind
   - alpine
-  - acf
+  - figma
 logo:
   src: /projects/panamo/logo.svg
   width: 500          
   height: 250         
+cover:
+  src: /projects/panamo/cover-web.png
 images:
-  - src: /projects/panamo/cover.png
   - src: /projects/panamo/1.png
   - src: /projects/panamo/2.png
   - src: /projects/panamo/3.png

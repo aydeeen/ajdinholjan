@@ -14,8 +14,9 @@ logo:
   src: /projects/customgpt/logo.png
   width: 432
   height: 96
+cover:
+  src: /projects/customgpt/cover-web.png
 images:
-  - src: /projects/customgpt/cover.png
   - src: /projects/customgpt/1.png
   - src: /projects/customgpt/2.png
   - src: /projects/customgpt/3.png

@@ -2,7 +2,7 @@
 layout: About
 seo:
   title: About
-  description: About Me
+  description: About Ajdin Holjan, a WordPress and Next.js developer with 10+ years of experience.
 ---
 
 
@@ -10,9 +10,9 @@ seo:
 ---personal_info
 ##### <span>01.</span> About me
 
-I am a front-end developer who enjoys the craft side of building for the web: small interaction details, responsive layouts that do not fight the user, and codebases that are easy to keep improving.
+I am a WordPress and Next.js developer with 10+ years of experience, and I enjoy the craft side of building for the web: small interaction details, responsive layouts that do not fight the user, and codebases that are easy to keep improving.
 
-Over the years I have worked across product teams, freelance projects, WordPress builds, e-commerce sites, and custom React/Next.js applications. That mix made me pragmatic. I like modern tools, but I like finished, reliable work even more.
+Over the years I have worked across product teams, freelance projects, WordPress builds, e-commerce sites, and custom React/Next.js applications. That mix made me pragmatic. I like modern tools, but I like finished, reliable work even more. Today I work as a Senior Software Engineer at HTEC and build client projects as a Top Rated Plus freelancer on Upwork. I am also a Claude Certified Architect (Anthropic).
 
 ##### <span>02.</span> Interests and Hobbies
 
@@ -45,16 +45,16 @@ list:
   - title: React
     icon:
       src: /icons/react.svg
-  - title: Next
+  - title: Next.js
     icon:
       src: /icons/next.svg
   - title: TypeScript
     icon:
       src: /icons/typescript.svg
-  - title: Tailwind
+  - title: Tailwind CSS
     icon:
       src: /icons/tailwind.svg
-  - title: Wordpress
+  - title: WordPress
     icon:
       src: /icons/wordpress.svg
   - title: WooCommerce
@@ -69,7 +69,7 @@ list:
   - title: PHP
     icon:
       src: /icons/php.svg
-  - title: Rest Api
+  - title: REST API
     icon:
       src: /icons/rest.svg
   - title: GraphQL
@@ -81,10 +81,10 @@ list:
   - title: Astro
     icon:
       src: /icons/astro.svg
-  - title: Alpine
+  - title: Alpine.js
     icon:
       src: /icons/alpine.svg
-  - title: Vue
+  - title: Vue.js
     icon:
       src: /icons/vue.svg
   - title: MUI
@@ -111,7 +111,7 @@ list:
   - title: CSS3
     icon:
       src: /icons/css3.svg
-  - title: GIT
+  - title: Git
     icon:
       src: /icons/git.svg
   - title: Docker
