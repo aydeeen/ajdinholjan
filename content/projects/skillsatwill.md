@@ -8,6 +8,8 @@ tags:
   - next
   - react
   - typescript
+  - tailwind
+  - Framer Motion
 logo:
   src: /projects/skillsatwill/logo.png
   width: 430
