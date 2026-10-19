@@ -3,7 +3,7 @@ import { NextSeo } from 'next-seo'
 import { siteMetaData } from '../theme.config'
 
 // Used for link previews on pages that don't set their own images.
-const DEFAULT_SHARE_IMAGE = '/hero-mobile.jpg'
+const DEFAULT_SHARE_IMAGE = '/og-image.png'
 
 const Seo = (props) => {
   const { seo = {}, title, description, images, pageUrl } = props

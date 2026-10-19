@@ -131,7 +131,7 @@ list:
 title: Employment
 list:
   - name: HTEC Group
-    description: Software Engineer
+    description: Senior Software Engineer
     date: Sep 2022 - Present
   - name: Upwork - Freelance
     description: Front-End Developer - Top Rated Plus
