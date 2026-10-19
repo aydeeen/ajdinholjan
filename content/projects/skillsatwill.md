@@ -12,8 +12,9 @@ logo:
   src: /projects/skillsatwill/logo.png
   width: 430
   height: 108
+cover:
+  src: /projects/skillsatwill/cover-web.png
 images:
-  - src: /projects/skillsatwill/cover.png
   - src: /projects/skillsatwill/1.png
   - src: /projects/skillsatwill/2.png
   - src: /projects/skillsatwill/3.png

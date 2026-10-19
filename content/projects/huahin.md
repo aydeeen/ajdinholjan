@@ -5,14 +5,16 @@ description: "WordPress media website for a brand sharing cinematic short films 
 date: '2026-07-04'
 tags:
   - wordpress
+  - gutenberg
   - php
   - javascript
 logo:
   src: /projects/huahin/logo.png
   width: 408
   height: 158
+cover:
+  src: /projects/huahin/cover-web.png
 images:
-  - src: /projects/huahin/cover.png
   - src: /projects/huahin/1-home.png
   - src: /projects/huahin/2-featured-film.png
   - src: /projects/huahin/3-around-hua-hin.png

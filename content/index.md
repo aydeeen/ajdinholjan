@@ -2,7 +2,7 @@
 layout: Home
 seo:
   title: WordPress & Next.js Developer
-  description: Portfolio and technical notes from front-end developer Ajdin Holjan.
+  description: Portfolio of Ajdin Holjan, a WordPress and Next.js developer building fast, custom websites and web apps.
 ---
 
 ---main
