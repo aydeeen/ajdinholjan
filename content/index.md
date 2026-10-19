@@ -1,7 +1,7 @@
 ---
 layout: Home
 seo:
-  title: Front-End Developer
+  title: WordPress & Next.js Developer
   description: Portfolio and technical notes from front-end developer Ajdin Holjan.
 ---
 
@@ -16,7 +16,7 @@ images:
 
 # <Typewriter>Ajdin Holjan</Typewriter>
 
-# *Front-End Developer*
+# *WordPress & Next.js Developer*
 
 <Sep size={12} />
 

@@ -132,7 +132,7 @@ title: Employment
 list:
   - name: HTEC Group
     description: Software Engineer
-    date: Aug 2022 - Present
+    date: Sep 2022 - Present
   - name: Upwork - Freelance
     description: Front-End Developer - Top Rated Plus
     date: Jul 2019 - Present
@@ -141,7 +141,7 @@ list:
     date: Jan 2019 - Jul 2022
   - name: InnoTech
     description: Front-End Developer
-    date: Jul 2015 - Dec 2018
+    date: Jul 2016 - Dec 2018
 ---
 
 

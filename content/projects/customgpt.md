@@ -1,11 +1,12 @@
 ---
 layout: Post
 title: CustomGPT.ai
-description: Custom WordPress website for an AI SaaS company, with ongoing feature work, HubSpot and Calendly integrations, and page-speed improvements.
+description: WordPress website for an AI SaaS company, rebuilt from Elementor into a fast custom theme on reusable ACF blocks, with ongoing feature work and HubSpot and Calendly integrations.
 link: https://customgpt.ai/
 date: '2026-10-18'
 tags:
   - wordpress
+  - acf
   - php
   - javascript
   - performance

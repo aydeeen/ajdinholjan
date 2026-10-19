@@ -1,13 +1,14 @@
 ---
 layout: Post
 title: Grupo Cañadío
-description: Custom WordPress website for a restaurant group, built with Tailwind CSS and a polished editorial front-end.
+description: Custom WordPress website for a restaurant group, built with ACF, Tailwind CSS and Alpine.js, with a polished editorial front end in Spanish and English.
 link: https://www.grupocanadio.com/
 date: '2026-07-05'
 tags:
   - wordpress
+  - acf
   - tailwind
-  - javascript
+  - alpine
   - php
 logo:
   src: /projects/grupocanadio/logo.svg
