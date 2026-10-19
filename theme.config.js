@@ -101,7 +101,7 @@ export const siteMetaData = {
   siteUrl: process.env.NEXT_PUBLIC_SITE_URL || process.env.SITE_URL || 'https://ajdinholjan.com',
   authorName: 'Ajdin Holjan',
   siteName: 'Ajdin Holjan',
-  defaultTitle: 'Ajdin Holjan | Front-End Developer',
+  defaultTitle: 'Ajdin Holjan | WordPress & Next.js Developer',
   titleTemplate: 'Ajdin Holjan | %s',
   description:
     'Portfolio and technical notes from Ajdin Holjan, a front-end developer focused on React, Next.js, TypeScript, Tailwind CSS, and practical web delivery.',

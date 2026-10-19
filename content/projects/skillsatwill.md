@@ -8,7 +8,6 @@ tags:
   - next
   - react
   - typescript
-  - wordpress
 logo:
   src: /projects/skillsatwill/logo.png
   width: 430

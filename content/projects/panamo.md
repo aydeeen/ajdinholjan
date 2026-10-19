@@ -1,7 +1,7 @@
 ---
 layout: Post
 title: Panamo
-description: Custom Wordpress based website built with ACF Custom Blocks.
+description: Designed and developed a custom WordPress website built with ACF custom blocks, Tailwind CSS and Alpine.js.
 link: https://panamo.io/
 date: '2025-01-17'
 tags:

@@ -1,7 +1,7 @@
 ---
 layout: Post
 title: ProLife Europe
-description: Custom Wordpress based website built with ACF Custom Blocks and Tailwind.
+description: Custom WordPress website developed from Figma designs, built with ACF custom blocks, Tailwind CSS and Alpine.js.
 link: https://prolifeeurope.org/
 date: '2025-04-06'
 tags:
