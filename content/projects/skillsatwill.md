@@ -1,7 +1,7 @@
 ---
 layout: Post
 title: Skills at Will
-description: Next.js platform for IT and cybersecurity training, with a live lab, a member area, and schedules and coaching calendars connected to a WordPress back end.
+description: "Next.js platform for IT and cybersecurity training, where members practise on a live enterprise lab with coaching and a daily schedule. I build and maintain the front end: the public site, the member area, schedules and coaching calendars."
 link: https://www.skillsatwill.com/
 date: '2026-10-17'
 tags:
@@ -13,6 +13,7 @@ logo:
   width: 430
   height: 108
 images:
+  - src: /projects/skillsatwill/cover.png
   - src: /projects/skillsatwill/1.png
   - src: /projects/skillsatwill/2.png
   - src: /projects/skillsatwill/3.png
