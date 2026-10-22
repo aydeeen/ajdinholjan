@@ -3,6 +3,7 @@ import ContentRenderer from '@/components/ContentRenderer'
 import Typewriter from '@/components/Typewriter'
 import Reveal from '@/components/Reveal'
 import Icon from '@/components/Icon'
+import Image from '@/components/Image'
 
 const History = ({ title, list }) => (
   <>
@@ -52,14 +53,39 @@ const SkillSet = ({ title, list }) => (
   </div>
 )
 
-const Layout = ({ personal_info = {}, cta, skills_header, skills, history }) => {
+const Photo = ({ src, alt, width, height }) => (
+  <div className="with-back-plate not-prose mx-auto w-full max-w-xs md:max-w-none">
+    <Image
+      src={src}
+      alt={alt}
+      width={width}
+      height={height}
+      animation="mask-left"
+      sizes="(min-width: 768px) 360px, 320px"
+      className="h-auto w-full"
+    />
+  </div>
+)
+
+const Layout = ({ personal_info = {}, photo, cta, skills_header, skills, history }) => {
   return (
     <div className="mx-auto w-full">
       <div className="prose prose-invert">
         <div>
           {personal_info && (
             <div className="p-6 md:p-12">
-              <ContentRenderer source={personal_info} />
+              {photo?.src ? (
+                <div className="flex flex-col md:grid md:grid-cols-[minmax(0,1fr)_minmax(0,20rem)] md:items-start md:gap-12 lg:grid-cols-[minmax(0,1fr)_minmax(0,22.5rem)]">
+                  <div className="mb-12 md:order-2 md:mb-0">
+                    <Photo {...photo} />
+                  </div>
+                  <div className="md:order-1">
+                    <ContentRenderer source={personal_info} />
+                  </div>
+                </div>
+              ) : (
+                <ContentRenderer source={personal_info} />
+              )}
             </div>
           )}
           {skills_header && (
