@@ -7,6 +7,13 @@ seo:
 
 
 
+---photo
+src: /about-ajdin.jpg
+alt: Ajdin Holjan with his dog
+width: 2048
+height: 2048
+---
+
 ---personal_info
 ##### <span>01.</span> About me
 
