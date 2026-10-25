@@ -20,5 +20,5 @@ images:
   - src: /projects/panamo/1-home-logos.png
   - src: /projects/panamo/2-what-we-offer.png
   - src: /projects/panamo/3-why-panamo.png
-  - src: /projects/panamo/4-mobile-full-hero.png
+  - src: /projects/panamo/4-mobile-three-boxes.png
 ---
