@@ -2,7 +2,7 @@
 layout: Post
 title: Hua Hin Stories
 description: "WordPress media website for a brand sharing cinematic short films and photography from Thailand's favourite seaside town, with a full-screen video hero, a featured film section, portrait reel collections and a guide to local places."
-date: '2026-07-03'
+date: '2026-10-14'
 tags:
   - wordpress
   - gutenberg

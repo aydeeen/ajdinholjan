@@ -3,7 +3,7 @@ layout: Post
 title: Turn Capital Partners
 description: "Designed and developed website for a direct lender that funds small businesses with lines of credit, equipment financing and SBA loans. Built on Squarespace with custom CSS: serif headlines, an earthy palette, arch-shaped image frames and an apply form with bank-statement upload."
 link: https://www.turncapitalpartners.com/
-date: '2025-01-16'
+date: '2026-10-08'
 tags:
   - squarespace
   - css

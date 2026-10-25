@@ -3,7 +3,7 @@ layout: Post
 title: Grupo Cañadío
 description: "Custom WordPress website for a Spanish restaurant group with five restaurant brands in Santander and Madrid. An editorial, image-led design built with ACF, Tailwind CSS and Alpine.js, in Spanish and English."
 link: https://grupocanadio.com/
-date: '2026-07-05'
+date: '2026-10-16'
 tags:
   - wordpress
   - acf
