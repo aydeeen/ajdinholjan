@@ -17,7 +17,7 @@ logo:
 cover:
   src: /projects/exela/cover-web.png
 images:
-  - src: /projects/exela/1.png
+  - src: /projects/exela/1-home.png
   - src: /projects/exela/2.png
   - src: /projects/exela/3.png
   - src: /projects/exela/4.png

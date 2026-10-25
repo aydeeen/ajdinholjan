@@ -17,8 +17,9 @@ logo:
 cover:
   src: /projects/grupocanadio/cover-web.png
 images:
-  - src: /projects/grupocanadio/1.png
-  - src: /projects/grupocanadio/2.png
-  - src: /projects/grupocanadio/3.png
-  - src: /projects/grupocanadio/4.png
+  - src: /projects/grupocanadio/1-home.png
+  - src: /projects/grupocanadio/2-our-story.png
+  - src: /projects/grupocanadio/3-one-origin.png
+  - src: /projects/grupocanadio/4-booking.png
+  - src: /projects/grupocanadio/5-mobile.png
 ---

@@ -17,8 +17,8 @@ logo:
 cover:
   src: /projects/panamo/cover-web.png
 images:
-  - src: /projects/panamo/1.png
-  - src: /projects/panamo/2.png
-  - src: /projects/panamo/3.png
-  - src: /projects/panamo/mobile.png
+  - src: /projects/panamo/1-home.png
+  - src: /projects/panamo/2-what-we-offer.png
+  - src: /projects/panamo/3-why-panamo.png
+  - src: /projects/panamo/4-mobile.png
 ---
