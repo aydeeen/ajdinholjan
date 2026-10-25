@@ -7,7 +7,7 @@ tags:
   - wordpress
   - acf
   - tailwind
-  - alpine
+  - php
   - figma
 logo:
   src: /projects/hedwyse/logo.svg
