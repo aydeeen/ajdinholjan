@@ -17,8 +17,8 @@ cover:
   src: /projects/midova/cover-web.png
 images:
   - src: /projects/midova/1-home.png
-  - src: /projects/midova/2-kompetenz.png
-  - src: /projects/midova/3-werte.png
-  - src: /projects/midova/4-quick-links.png
+  - src: /projects/midova/2-kompetenz-centred.png
+  - src: /projects/midova/3-werte-centred.png
+  - src: /projects/midova/4-quick-links-centred.png
   - src: /projects/midova/5-mobile.png
 ---
