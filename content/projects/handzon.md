@@ -18,5 +18,5 @@ images:
   - src: /projects/handzon/1.png
   - src: /projects/handzon/2.png
   - src: /projects/handzon/3.png
-  - src: /projects/handzon/mobile.png
+  - src: /projects/handzon/4-mobile-screens.png
 ---
