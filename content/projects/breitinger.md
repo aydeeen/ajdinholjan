@@ -2,7 +2,7 @@
 layout: Post
 title: Breitinger
 description: "WordPress website for Breitinger AG, an office planning and furnishing company in the Rhine-Main area. Built the full site at the agency Media Dudes on a custom FoundationPress theme with ACF: a German site with service pages, a KonzeptRaum showroom page, a reference gallery with lightbox and tabbed furnishing examples, image sliders and the seven-step Breitinger Weg planning section. The site has since been rebuilt by another team; these images show my version."
-date: '2026-10-07'
+date: '2026-10-06'
 tags:
   - wordpress
   - foundationpress
