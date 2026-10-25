@@ -3,7 +3,7 @@ layout: Post
 title: Exela Media
 description: "Custom WordPress website for an Estonian video agency that makes short-form and YouTube content for brands. Built from the design on reusable ACF blocks with Tailwind CSS and Alpine.js, with pricing packages, a filterable case-study grid and video sliders."
 link: https://www.exelamedia.com/
-date: '2026-07-04'
+date: '2026-10-15'
 tags:
   - wordpress
   - acf

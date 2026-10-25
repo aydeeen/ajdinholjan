@@ -3,7 +3,7 @@ layout: Post
 title: MIDOVA Facility Management
 description: "Corporate WordPress website for a Berlin facility-management company, built at the agency Media Dudes. A custom theme on reusable ACF blocks with SCSS: full-width photo heroes with tab navigation, an illustrated service skyline, value columns, quick-link cards and an accordion of services."
 link: https://www.midova-fm.de/
-date: '2025-01-10'
+date: '2026-10-09'
 tags:
   - wordpress
   - acf

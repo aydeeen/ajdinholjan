@@ -3,7 +3,7 @@ layout: Post
 title: Panamo
 description: "Designed and developed website for a B2B agency running outbound sales for growing companies: a custom WordPress theme on reusable ACF blocks with Tailwind CSS and Alpine.js, from the client logo carousel to the contact form."
 link: https://panamo.io/
-date: '2025-01-17'
+date: '2026-10-12'
 tags:
   - wordpress
   - acf
