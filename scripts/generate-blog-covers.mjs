@@ -185,6 +185,42 @@ const covers = [
     kicker: 'Maintenance',
     colors: ['#0f172a', '#f97316', '#2dd4bf'],
   },
+  {
+    file: 'css-nesting-stylesheets.png',
+    title: 'The Power of CSS Nesting',
+    kicker: 'CSS',
+    colors: ['#0c4a6e', '#3b82f6', '#fde68a'],
+  },
+  {
+    file: 'css-text-wrap-pretty.png',
+    title: 'CSS text-wrap: pretty',
+    kicker: 'CSS',
+    colors: ['#1e1b4b', '#8b5cf6', '#c4b5fd'],
+  },
+  {
+    file: 'alpine-js-modern-web.png',
+    title: 'Alpine.js for the Modern Web',
+    kicker: 'Alpine.js',
+    colors: ['#1e293b', '#77c1d2', '#a5f3fc'],
+  },
+  {
+    file: 'tailwind-v4-release.png',
+    title: 'Tailwind CSS v4 Is Out',
+    kicker: 'Tailwind CSS',
+    colors: ['#082f49', '#38bdf8', '#e0f2fe'],
+  },
+  {
+    file: 'css-accent-color-ui.png',
+    title: 'Accent Color in CSS',
+    kicker: 'CSS',
+    colors: ['#111827', '#ec4899', '#f9a8d4'],
+  },
+  {
+    file: 'svelte-5-worth-trying.png',
+    title: 'Svelte 5 Is Worth a Try',
+    kicker: 'Svelte',
+    colors: ['#431407', '#ff3e00', '#fed7aa'],
+  },
 ]
 
 const escapeHtml = (value) =>

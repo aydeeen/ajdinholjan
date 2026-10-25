@@ -26,7 +26,7 @@ const BlogCardVertical = ({ className, title, images, slug, description, date, t
           animation="fade-in zoom-out"
           wrapperClassName="transition-transform group-hover:scale-105 duration-300 ease-out before:bg-omega-700"
           sizes="(min-width: 768px) 428px, 100vw"
-          className="object-cover"
+          className="object-cover object-left"
           fill
         />
       </Link>

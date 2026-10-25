@@ -6,8 +6,8 @@ date: '2025-01-12'
 tags:
   - css
 images:
-  - src: /blog/css-nesting.png
-    alt: CCC Nesting
+  - src: /blog/css-nesting-stylesheets.png
+    alt: CSS nesting cover
 ---
 
 CSS is constantly evolving, and one of the latest additions to the language is CSS Nesting. If you're familiar with preprocessors like SCSS or LESS, this new feature might feel like a dream come true. For years, we've been using these tools to make our stylesheets more organized by nesting selectors inside each other. But what if I told you that this can now be done without any extra tools? Yes, native CSS nesting is here, and it's a game changer!
