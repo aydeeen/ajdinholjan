@@ -19,5 +19,5 @@ images:
   - src: /projects/emya/1-home.png
   - src: /projects/emya/2-nominee-profile.png
   - src: /projects/emya/3-editions.png
-  - src: /projects/emya/4-mobile.png
+  - src: /projects/emya/4-mobile-full-hero.png
 ---
