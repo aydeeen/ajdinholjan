@@ -1,7 +1,7 @@
 ---
 layout: Post
 title: valyt
-description: "WordPress website for a consultancy in sustainable finance and ESG data. A custom theme on reusable ACF blocks with SCSS: a bold brand hero, about and solutions pages, and a News & Insights blog."
+description: "Designed and developed website for a consultancy in sustainable finance and ESG data. A custom WordPress theme on reusable ACF blocks with SCSS: a bold brand hero, about and solutions pages, and a News & Insights blog."
 link: https://valyt.com/
 date: '2025-01-09'
 tags:
@@ -9,6 +9,7 @@ tags:
   - acf
   - scss
   - php
+  - web design
 logo:
   src: /projects/valyt/logo.png
   width: 578
