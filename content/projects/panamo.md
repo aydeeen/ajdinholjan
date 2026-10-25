@@ -15,10 +15,10 @@ logo:
   width: 500          
   height: 250         
 cover:
-  src: /projects/panamo/cover-web.png
+  src: /projects/panamo/cover-web-logos.png
 images:
-  - src: /projects/panamo/1-home.png
+  - src: /projects/panamo/1-home-logos.png
   - src: /projects/panamo/2-what-we-offer.png
   - src: /projects/panamo/3-why-panamo.png
-  - src: /projects/panamo/4-mobile.png
+  - src: /projects/panamo/4-mobile-screens.png
 ---
