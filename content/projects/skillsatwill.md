@@ -21,5 +21,5 @@ images:
   - src: /projects/skillsatwill/2-schedule.png
   - src: /projects/skillsatwill/3-pricing.png
   - src: /projects/skillsatwill/4-built-for.png
-  - src: /projects/skillsatwill/5-mobile.png
+  - src: /projects/skillsatwill/5-mobile-screens.png
 ---
