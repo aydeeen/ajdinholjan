@@ -7,8 +7,8 @@ tags:
   - alpine
   - javascript
 images:
-  - src: /blog/alpine-js.png
-    alt: Alpine.js
+  - src: /blog/alpine-js-modern-web.png
+    alt: Alpine.js cover
 ---
 
 Alpine.js is like jQuery’s younger, cooler sibling - designed for today’s web. It’s a tiny (~10kb) JavaScript framework that makes it easy to add interactivity to your site without a lot of setup or fuss.

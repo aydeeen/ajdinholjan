@@ -7,8 +7,8 @@ tags:
   - svelte
   - javascript
 images:
-  - src: /blog/svelte.png
-    alt: Svelte
+  - src: /blog/svelte-5-worth-trying.png
+    alt: Svelte 5 cover
 ---
 
 So, what makes Svelte tick? Well, unlike some of its cousins that rely on a virtual DOM (you know the ones), Svelte takes a completely different, almost magical approach. It compiles your code directly into tiny, pure vanilla JavaScript. Think about that for a second: less bloat, less overhead, and applications that practically fly right out of the box.

@@ -6,8 +6,8 @@ date: '2025-03-15'
 tags:
   - css
 images:
-  - src: /blog/css-accent-color.png
-    alt: CSS Accent Color
+  - src: /blog/css-accent-color-ui.png
+    alt: CSS accent-color cover
 ---
 
 CSS continues to introduce features that make styling web applications more intuitive and efficient. One such feature is the `accent-color` property, which provides a simple way to customize the appearance of form elements while maintaining consistency across your UI. 

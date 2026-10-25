@@ -6,8 +6,8 @@ date: '2025-01-18'
 tags:
   - css
 images:
-  - src: /blog/css-wrapping.png
-    alt: CCC Wrapping
+  - src: /blog/css-text-wrap-pretty.png
+    alt: CSS text-wrap pretty cover
 ---
 
 We've all encountered it: that one word awkwardly sitting alone at the end of a paragraph. It throws off the clean, organized look you're going for, and frankly, it's just kind of annoying.

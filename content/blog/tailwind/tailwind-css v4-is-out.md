@@ -6,8 +6,8 @@ date: '2025-01-31'
 tags:
   - tailwind
 images:
-  - src: /blog/tailwind-v4.png
-    alt: Tailwind CSS
+  - src: /blog/tailwind-v4-release.png
+    alt: Tailwind CSS v4 cover
 ---
 
 Tailwind CSS v4.0 marks the most significant update yet, bringing a completely reimagined configuration system and a high-performance engine designed for speed and efficiency. This version is optimized for flexibility and fully leverages the latest web technologies.

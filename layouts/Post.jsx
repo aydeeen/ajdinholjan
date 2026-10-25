@@ -20,8 +20,10 @@ const Layout = ({
   images = [],
   attributes = [],
   pageUrl,
+  slug = [],
 }) => {
   const { siteUrl, authorName } = siteMetaData || {}
+  const isProject = slug[0] === 'projects'
 
   return (
     <>
@@ -58,11 +60,16 @@ const Layout = ({
                 title
               )}
             </h1>
-            <div className="flex items-center justify-center">
-              <div className="basis-1/3 text-right">
+            {/* Projects show no date, so the avatar and byline sit centred as a pair. */}
+            <div className={`flex items-center justify-center ${isProject ? 'gap-6' : ''}`}>
+              <div className={isProject ? 'order-2' : 'basis-1/3 text-right'}>
                 By <strong>{authorName}</strong>
               </div>
-              <div className="not-prose mx-6 box-content h-24 w-24 overflow-hidden rounded-full border-4 border-alpha bg-alpha">
+              <div
+                className={`not-prose box-content h-24 w-24 shrink-0 overflow-hidden rounded-full border-4 border-alpha bg-alpha ${
+                  isProject ? 'order-1' : 'mx-6'
+                }`}
+              >
                 <Image
                   src={authorImage}
                   alt="Picture of the author"
@@ -72,9 +79,11 @@ const Layout = ({
                   fill
                 />
               </div>
-              <div className="basis-1/3 text-left">
-                <Date date={date} />
-              </div>
+              {!isProject && (
+                <div className="basis-1/3 text-left">
+                  <Date date={date} />
+                </div>
+              )}
             </div>
           </header>
 
