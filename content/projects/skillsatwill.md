@@ -17,8 +17,9 @@ logo:
 cover:
   src: /projects/skillsatwill/cover-web.png
 images:
-  - src: /projects/skillsatwill/1.png
-  - src: /projects/skillsatwill/2.png
-  - src: /projects/skillsatwill/3.png
-  - src: /projects/skillsatwill/4.png
+  - src: /projects/skillsatwill/1-home.png
+  - src: /projects/skillsatwill/2-schedule.png
+  - src: /projects/skillsatwill/3-pricing.png
+  - src: /projects/skillsatwill/4-built-for.png
+  - src: /projects/skillsatwill/5-mobile.png
 ---

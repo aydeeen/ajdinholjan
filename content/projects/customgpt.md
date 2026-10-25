@@ -17,8 +17,9 @@ logo:
 cover:
   src: /projects/customgpt/cover-web.png
 images:
-  - src: /projects/customgpt/1.png
-  - src: /projects/customgpt/2.png
-  - src: /projects/customgpt/3.png
-  - src: /projects/customgpt/4.png
+  - src: /projects/customgpt/1-home.png
+  - src: /projects/customgpt/2-verify.png
+  - src: /projects/customgpt/3-integrations.png
+  - src: /projects/customgpt/4-pricing.png
+  - src: /projects/customgpt/5-mobile.png
 ---

@@ -17,11 +17,8 @@ logo:
 cover:
   src: /projects/prolife/cover-web.png
 images:
-  - src: /projects/prolife/1.png
-  - src: /projects/prolife/2.png
-  - src: /projects/prolife/3.png
-  - src: /projects/prolife/4.png
-  - src: /projects/prolife/5.png
-  - src: /projects/prolife/6.png
-  - src: /projects/prolife/mobile.png
+  - src: /projects/prolife/1-home.png
+  - src: /projects/prolife/2-pillars.png
+  - src: /projects/prolife/3-petitions.png
+  - src: /projects/prolife/4-mobile.png
 ---
