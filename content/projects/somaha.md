@@ -8,6 +8,10 @@ tags:
   - wordpress
   - beaver builder
   - css
+logo:
+  src: /projects/somaha/logo.png
+  width: 2051
+  height: 350
 cover:
   src: /projects/somaha/cover-web.png
 images:
