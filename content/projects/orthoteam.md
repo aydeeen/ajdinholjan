@@ -9,6 +9,10 @@ tags:
   - acf
   - scss
   - php
+logo:
+  src: /projects/orthoteam/logo.png
+  width: 319
+  height: 319
 cover:
   src: /projects/orthoteam/cover-web.png
 images:

@@ -9,6 +9,10 @@ tags:
   - acf
   - scss
   - php
+logo:
+  src: /projects/legal387/logo.svg
+  width: 127
+  height: 120
 cover:
   src: /projects/legal387/cover-web.png
 images:
