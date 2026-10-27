@@ -14,9 +14,9 @@ logo:
   width: 127
   height: 120
 cover:
-  src: /projects/legal387/cover-web.png
+  src: /projects/legal387/cover-web-about.png
 images:
-  - src: /projects/legal387/1-home.png
+  - src: /projects/legal387/1-about.png
   - src: /projects/legal387/2-core-focus.png
   - src: /projects/legal387/3-practice.png
   - src: /projects/legal387/4-it-industry.png
