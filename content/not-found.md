@@ -1,5 +1,5 @@
 ---
-layout: 'BlankCenter'
+layout: 'BlankCentered'
 seo:
   title: 404 Not Found
   description: My personal portfolio & tech blog website.
@@ -12,6 +12,6 @@ seo:
 
 The page you were looking for does not exist.
 
-<Button href="/contact" size="sm">Go Back to Home</Button>
+<Button href="/" size="sm">Go Back to Home</Button>
 
 or checkout [my blog](/blog)

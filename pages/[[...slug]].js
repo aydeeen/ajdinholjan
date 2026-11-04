@@ -18,10 +18,10 @@ export async function getStaticProps({ params }) {
     slug = slug.slice(0, pageIndex)
   }
 
-  let page = await getPageBySlug(slug)
+  const page = await getPageBySlug(slug)
 
   if (!page) {
-    page = await getPageBySlug(['not-found'])
+    return { notFound: true }
   }
 
   const props = { page }
@@ -65,7 +65,7 @@ export async function getStaticPaths() {
     },
   }))
 
-  return { paths, fallback: true }
+  return { paths, fallback: 'blocking' }
 }
 
 export default function Page({ pagination, page = {} }) {
