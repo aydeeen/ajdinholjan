@@ -85,7 +85,7 @@ const Menu = () => {
           </div>
         )}
 
-        {social && (
+        {social?.length > 0 && (
           <div className="flex w-full flex-wrap bg-accent md:block md:bg-omega-800">
             {social.map((item, i) => (
               <SocialLink key={`${i}-social`} {...item} />
