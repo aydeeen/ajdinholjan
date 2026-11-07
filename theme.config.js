@@ -11,8 +11,6 @@ import {
   IoHomeSharp,
   IoLaptopSharp,
   IoImagesSharp,
-  IoLogoGithub,
-  IoLogoLinkedin,
 } from 'react-icons/io5'
 
 /**
@@ -42,18 +40,9 @@ export const menu = [
   },
 ]
 
-export const social = [
-  {
-    name: 'GitHub',
-    url: 'https://github.com/aydeeen',
-    Icon: IoLogoGithub,
-  },
-  {
-    name: 'LinkedIn',
-    url: 'https://www.linkedin.com/in/ajdin-holjan-16b795247/',
-    Icon: IoLogoLinkedin,
-  },
-]
+// No social links: the site is shared in Upwork proposals, where links to
+// off-platform profiles (LinkedIn, GitHub) count as contact details.
+export const social = []
 
 /**
  * General configurations
@@ -105,7 +94,6 @@ export const siteMetaData = {
   titleTemplate: 'Ajdin Holjan | %s',
   description:
     'Portfolio and articles by Ajdin Holjan, a WordPress and Next.js developer building fast, custom websites and web apps with React, TypeScript and Tailwind CSS.',
-  email: 'aydinholjan@gmail.com',
   locale: 'en_US',
   twitter: {
     cardType: 'summary_large_image',
